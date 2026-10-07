@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Serene Creations Ltd – Sign in</title>
+  <style>
+    :root { --bg:#f6f4f0; --card:#fff; --text:#26231f; --muted:#6b665e; --accent:#5b7c6f; --err:#b3261e; --ok:#2e7d32; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#1b1a18; --card:#262421; --text:#f1eee8; --muted:#a29d93; --accent:#8fb3a4; --err:#f2b8b5; --ok:#a5d6a7; } }
+    * { box-sizing:border-box; }
+    body { margin:0; min-height:100vh; display:grid; place-items:center; padding:16px; background:var(--bg); color:var(--text); font:16px/1.5 system-ui,sans-serif; }
+    main { width:100%; max-width:380px; background:var(--card); padding:28px; border-radius:12px; box-shadow:0 2px 16px rgba(0,0,0,.08); }
+    h1 { margin:0 0 4px; font-size:1.4rem; }
+    p.sub { margin:0 0 20px; color:var(--muted); font-size:.9rem; }
+    label { display:block; margin:12px 0 4px; font-size:.85rem; }
+    input { width:100%; padding:10px; border:1px solid var(--muted); border-radius:8px; background:transparent; color:inherit; font:inherit; }
+    button { width:100%; margin-top:18px; padding:11px; border:0; border-radius:8px; background:var(--accent); color:#fff; font:inherit; font-weight:600; cursor:pointer; }
+    button:disabled { opacity:.6; cursor:wait; }
+    button.link { background:none; color:var(--accent); margin-top:10px; padding:4px; font-weight:400; text-decoration:underline; }
+    #msg { min-height:1.4em; margin-top:14px; font-size:.9rem; }
+    .err { color:var(--err); } .ok { color:var(--ok); }
+    [hidden] { display:none !important; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Serene Creations Ltd</h1>
+
+  <section id="auth">
+    <p class="sub" id="subtitle">Sign in to your account</p>
+    <form id="form">
+      <label for="email">Email</label>
+      <input id="email" type="email" autocomplete="email" required>
+      <label for="password">Password</label>
+      <input id="password" type="password" autocomplete="current-password" minlength="8" required>
+      <button id="submit" type="submit">Sign in</button>
+    </form>
+    <button class="link" id="toggle" type="button">No account? Create one</button>
+    <button class="link" id="reset" type="button">Forgot password?</button>
+  </section>
+
+  <section id="account" hidden>
+    <p class="sub">Signed in as <strong id="who"></strong></p>
+    <button id="signout" type="button">Sign out</button>
+  </section>
+
+  <div id="msg" role="status" aria-live="polite"></div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="config.js"></script>
+<script>
+  const sb = supabase.createClient(window.SUPABASE_URL, window.SUPABASE_PUBLISHABLE_KEY);
+  const $ = id => document.getElementById(id);
+  let mode = "signin";
+
+  function say(text, cls) { $("msg").textContent = text || ""; $("msg").className = cls || ""; }
+
+  function render(session) {
+    const signedIn = !!session;
+    $("auth").hidden = signedIn;
+    $("account").hidden = !signedIn;
+    if (signedIn) $("who").textContent = session.user.email;
+  }
+
+  function setMode(m) {
+    mode = m;
+    const up = m === "signup";
+    $("subtitle").textContent = up ? "Create your account" : "Sign in to your account";
+    $("submit").textContent = up ? "Create account" : "Sign in";
+    $("toggle").textContent = up ? "Have an account? Sign in" : "No account? Create one";
+    $("password").autocomplete = up ? "new-password" : "current-password";
+    say("");
+  }
+
+  $("toggle").onclick = () => setMode(mode === "signin" ? "signup" : "signin");
+
+  $("form").onsubmit = async e => {
+    e.preventDefault();
+    $("submit").disabled = true; say("");
+    const creds = { email: $("email").value.trim(), password: $("password").value };
+    const { data, error } = mode === "signup"
+      ? await sb.auth.signUp({ ...creds, options: { emailRedirectTo: location.href } })
+      : await sb.auth.signInWithPassword(creds);
+    $("submit").disabled = false;
+    if (error) return say(error.message, "err");
+    if (mode === "signup" && !data.session) say("Check your email to confirm your account.", "ok");
+  };
+
+  $("reset").onclick = async () => {
+    const email = $("email").value.trim();
+    if (!email) return say("Enter your email first.", "err");
+    const { error } = await sb.auth.resetPasswordForEmail(email, { redirectTo: location.href });
+    error ? say(error.message, "err") : say("Password reset email sent.", "ok");
+  };
+
+  $("signout").onclick = async () => { await sb.auth.signOut(); say(""); };
+
+  sb.auth.onAuthStateChange((_event, session) => render(session));
+  sb.auth.getSession().then(({ data }) => render(data.session));
+</script>
+</body>
+</html>
