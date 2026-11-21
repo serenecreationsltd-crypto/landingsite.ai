@@ -1,0 +1,5 @@
+project_id = "prfluuygnxunaitzmttf"
+
+[functions.tender-hub]
+verify_jwt = true
+entrypoint = "./functions/tender-hub/index.ts"
