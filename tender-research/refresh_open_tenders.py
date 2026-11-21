@@ -8,6 +8,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.parse import parse_qs, urlencode, urljoin, urlsplit
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
@@ -390,7 +391,8 @@ def refresh(previous, now, read=fetch):
                 state = "ok"
                 successful += 1
             except (OSError, TypeError, ValueError, KeyError) as error:
-                print(f"{name}: source check failed ({type(error).__name__})")
+                reason = f"HTTP {error.code}" if isinstance(error, HTTPError) else type(error).__name__
+                print(f"{name}: source check failed ({reason})")
                 last_checked = previous.get("sources", {}).get(name, {}).get("checkedAt")
                 fresh = last_checked and now - datetime.fromisoformat(last_checked) <= MAX_STALE
                 rows = [row for row in previous.get("records", []) if row.get("source") == name and eligible(row, now)] if fresh else []
