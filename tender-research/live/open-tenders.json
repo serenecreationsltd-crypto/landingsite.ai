@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-21T08:33:31+00:00",
+  "generatedAt": "2026-11-21T16:45:08+00:00",
   "sources": {
     "Uganda eGP": {
-      "checkedAt": "2026-11-21T08:33:31+00:00",
+      "checkedAt": "2026-11-21T16:45:08+00:00",
       "state": "ok",
-      "openRecords": 49
+      "openRecords": 0
     },
     "World Bank": {
-      "checkedAt": "2026-11-21T08:33:31+00:00",
+      "checkedAt": "2026-11-21T16:45:08+00:00",
       "state": "ok",
       "openRecords": 8
     },
     "GOAL Uganda": {
-      "checkedAt": "2026-11-21T08:33:31+00:00",
+      "checkedAt": "2026-11-21T16:45:08+00:00",
       "state": "ok",
       "openRecords": 2
     },
     "UNDP Procurement Notices": {
-      "checkedAt": "2026-11-21T08:33:31+00:00",
+      "checkedAt": "2026-11-21T16:45:08+00:00",
       "state": "ok",
       "openRecords": 12
     },
@@ -28,7 +28,7 @@
       "openRecords": 1
     },
     "Welthungerhilfe Uganda": {
-      "checkedAt": "2026-11-21T08:33:31+00:00",
+      "checkedAt": "2026-11-21T16:45:08+00:00",
       "state": "ok",
       "openRecords": 2
     },
@@ -39,11 +39,11 @@
     },
     "Kenya PPIP": {
       "checkedAt": "2026-11-21T08:33:31+00:00",
-      "state": "ok",
+      "state": "cached",
       "openRecords": 354
     },
     "Tanzania NeST": {
-      "checkedAt": "2026-11-21T08:33:31+00:00",
+      "checkedAt": "2026-11-21T16:45:08+00:00",
       "state": "ok",
       "openRecords": 148
     }
@@ -51,7 +51,7 @@
   "coverage": {
     "country": "Uganda",
     "target": 200,
-    "uniqueOpen": 228
+    "uniqueOpen": 179
   },
   "records": [
     {
@@ -67,7 +67,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FW%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -382,7 +382,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=78J6%2F2026%2F2027%2FW%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -412,7 +412,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR222%2F2025%2F2026%2FG%2F105",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -457,7 +457,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S9%2F2026%2F2027%2FG%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -472,7 +472,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F197",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -487,7 +487,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F194",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -517,7 +517,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR136%2F2026%2F2027%2FG%2F50",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -532,7 +532,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F014%2F2026%2F2027%2FW%2F68",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -547,7 +547,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F014%2F2026%2F2027%2FW%2F67",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -562,7 +562,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR95%2F2026%2F2027%2FG%2F58",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -577,7 +577,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR91%2F2026%2F2027%2FG%2F56",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -592,7 +592,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR76%2F2026%2F2027%2FW%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -607,7 +607,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR190%2F2026%2F2027%2FG%2F10",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -622,7 +622,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR165%2F2026%2F2027%2FG%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -637,7 +637,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F026%2F2026%2F2027%2FW%2F193",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -652,7 +652,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F022%2F2026%2F2027%2FW%2F40",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -667,7 +667,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F020%2F2026%2F2027%2FW%2F54",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -682,7 +682,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F192",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -697,7 +697,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F186",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -712,7 +712,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F003%2F2026%2F2027%2FW%2F92",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -727,7 +727,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=8219%2F2026%2F2027%2FW%2F11",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -742,7 +742,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F2026%2F2027%2FG%2F38",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -757,7 +757,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F2026%2F2027%2FG%2F29",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -772,7 +772,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=26%2F2026%2F2027%2FG%2F27",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -787,7 +787,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=83P9%2F2026%2F2027%2FW%2F09",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -892,7 +892,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X11%2F006%2F2026%2F2027%2FG%2F106",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -982,7 +982,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR129%2F001%2F2026%2F2027%2FG%2F33",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -997,7 +997,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F79",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1012,7 +1012,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F005%2F2026%2F2027%2FW%2F106",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1207,7 +1207,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F2026%2F2027%2FW%2F20",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1236,7 +1236,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51923",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1281,20 +1281,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313823",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "FEASIBILITY STUDY AND ENGINEERING DESIGNS FOR...",
-      "reference": "UCAA/WRKS/2025-2026/00035",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-04",
-      "publishedDate": "2026-11-19",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/427579196_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -1399,7 +1385,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51912",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1414,7 +1400,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F003%2F2026%2F2027%2FW%2F37",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1429,7 +1415,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR177%2F2026%2F2027%2FG%2F74",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1444,7 +1430,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F113%2FTR176%2FG%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1459,7 +1445,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F113%2FTR176%2FG%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1474,7 +1460,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR120%2F2026%2F2027%2FG%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1489,7 +1475,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F007%2F2026%2F2027%2FG%2F16",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1639,7 +1625,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR33%2F2026%2F2027%2FG%2F69",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1654,7 +1640,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR230%2F2026%2F2027%2FG%2F05",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1669,7 +1655,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR183%2F2026%2F2027%2FG%2F04",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1684,7 +1670,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR177%2F2026%2F2027%2FNC%2F18",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1699,7 +1685,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR153%2F2026%2F2027%2FG%2F24",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1714,7 +1700,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR133%2F2026%2F2027%2FNC%2F17",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1729,7 +1715,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F022%2F2026%2F2027%2FW%2F73",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1744,7 +1730,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F006%2F2026%2F2027%2FW%2F85",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1759,7 +1745,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F006%2F2026%2F2027%2FW%2F105",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1774,7 +1760,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=63CC3%2F2026%2F2027%2FW%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1789,7 +1775,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F035%2F2026%2F2027%2FG%2F34",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1804,7 +1790,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F027%2F2026%2F2027%2FG%2F18",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1819,7 +1805,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=26%2F2026%2F2027%2FG%2F20",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1834,7 +1820,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F001%2F2026%2F2027%2FNC%2F04",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1849,7 +1835,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F115",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1864,7 +1850,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F001%2F2026%2F2027%2FW%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1879,7 +1865,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=83P1%2F2026%2F2027%2FW%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1894,7 +1880,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F014%2F2026%2F2027%2FW%2F119",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1909,7 +1895,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F014%2F2026%2F2027%2FW%2F118",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1924,7 +1910,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F014%2F2026%2F2027%2FW%2F117",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1954,7 +1940,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR225%2F2026%2F2027%2FG%2F07",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2002,48 +1988,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Framework Contract for Provision of legal ser...",
-      "reference": "UCAA/NCONS/2026-2027/00181",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-04",
-      "publishedDate": "2026-11-18",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/426641158_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Procurement of Mechanized Road Sweepers...",
-      "reference": "KCCA/SUPLS/2026-2027/00388",
-      "procuringEntity": "Kampala Capital City Authority",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-03",
-      "publishedDate": "2026-11-18",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/427141580_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Procurement of Compactor Garbage Trucks...",
-      "reference": "KCCA/SUPLS/2026-2027/00387",
-      "procuringEntity": "Kampala Capital City Authority",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-03",
-      "publishedDate": "2026-11-18",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/426789056_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "Consultancy Services for Design and Preparation of Master plan for the operationalization of the NIT Centre of Excellence in Road Safety and Transportation",
       "reference": "TR10/2026/2027/C/06",
@@ -2056,7 +2000,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR10%2F2026%2F2027%2FC%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2116,7 +2060,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=90%2F2026%2F2027%2FW%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2161,7 +2105,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F61168%2FTR140%2F024%2FNC%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2476,7 +2420,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR221%2F2026%2F2027%2FG%2F13",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2491,7 +2435,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR193%2F2026%2F2027%2FG%2F14",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2506,7 +2450,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F074%2F2026%2F2027%2FW%2F59",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2521,7 +2465,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F074%2F2026%2F2027%2FW%2F58",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2536,7 +2480,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F026%2F2026%2F2027%2FW%2F204",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2551,7 +2495,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F003%2F2026%2F2027%2FW%2F129",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2566,7 +2510,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=81M9%2F2026%2F2027%2FW%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2581,7 +2525,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=69%2F002%2F2026%2F2027%2FG%2F18",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2596,7 +2540,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F074%2F2026%2F2027%2FW%2F57",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2671,7 +2615,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F011%2F2026%2F2027%2FW%2F23",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2686,7 +2630,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F90",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2701,7 +2645,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F42",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2731,7 +2675,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=78J10%2F2026%2F2027%2FW%2F29",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2746,7 +2690,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=49%2F003%2F2026%2F2027%2FW%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2836,34 +2780,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313317",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "PROCUREMENT OF 3 MOBILE LABORATORY VEHICLES N...",
-      "reference": "MoWE/SUPLS/2026-2027/00171",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-21",
-      "publishedDate": "2026-11-17",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/426333206_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Generators and solar equipment - Generator...",
-      "reference": "MoWE/SUPLS/2026-2027/00044",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-21",
-      "publishedDate": "2026-11-17",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/426187334_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -3523,7 +3439,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51818",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3627,7 +3543,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -3687,7 +3603,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR24%2F2026%2F2027%2FNC%2F09",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3702,7 +3618,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR24%2F001%2F2025%2F2026%2FW%2F09",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3717,7 +3633,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=36AA4%2F2026%2F2027%2FC%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -3731,7 +3647,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51821",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3746,7 +3662,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F003%2F2026%2F2027%2FNC%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3761,7 +3677,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F003%2F2026%2F2027%2FNC%2F05",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3776,7 +3692,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F012%2F2026%2F2027%2FW%2F45",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3806,7 +3722,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F003%2F2026%2F2027%2FG%2F14",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3971,7 +3887,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F002%2F2026%2F2027%2FW%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3986,7 +3902,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F002%2F2026%2F2027%2FW%2F36",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4001,7 +3917,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X11%2F006%2F2026%2F2027%2FG%2F115",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4016,7 +3932,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR140%2F014%2F2026%2F2027%2FG%2F05",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4031,7 +3947,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F022%2F2026%2F2027%2FW%2F74",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4046,7 +3962,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=83P8%2F2026%2F2027%2FNC%2F49",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4061,7 +3977,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=83P8%2F2026%2F2027%2FNC%2F48",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4076,7 +3992,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=81M5%2F2026%2F2027%2FG%2F185",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4091,7 +4007,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=70A3%2F2026%2F2027%2FW%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4106,7 +4022,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=53%2F005%2F2026%2F2027%2FG%2F28",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4241,7 +4157,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=71B4%2F2026%2F2027%2FW%2F17",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4256,7 +4172,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=8626%2F2026%2F2027%2FW%2F21",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4271,7 +4187,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=72C6%2F2026%2F2027%2FG%2F28",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4286,7 +4202,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=72C6%2F2026%2F2027%2FG%2F22",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -4304,20 +4220,6 @@
       "checkedAt": "2026-11-21T08:29:00+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Software Licences (Oracle BI, power BI, ) - M...",
-      "reference": "UNBS/NCONS/2026-2027/00090",
-      "procuringEntity": "Uganda National Bureau of Standards",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-11",
-      "publishedDate": "2026-11-16",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425846966_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Welthungerhilfe Uganda",
       "title": "Major Rehabilitation of Seventy (70) Deep Boreholes in Katakwi, Soroti, Amuria, Kapelebyong and Napak Districts",
       "reference": "UGA 1208/042/2026",
@@ -4329,7 +4231,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463259/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Welthungerhilfe Uganda",
@@ -4343,7 +4245,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463254/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4358,7 +4260,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FC%2F10",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4658,7 +4560,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F005%2F2026%2F2027%2FW%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4673,7 +4575,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR136%2F2026%2F2027%2FG%2F47",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4688,7 +4590,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F012%2F2026%2F2027%2FW%2F42",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4703,7 +4605,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F005%2F2026%2F2027%2FG%2F17",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4883,7 +4785,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FG%2F54",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4898,7 +4800,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR10%2F2026%2F2027%2FG%2F21",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4913,7 +4815,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F2026%2F2027%2FW%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4928,7 +4830,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F329%2FTR44%2FNC%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4943,7 +4845,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=78J3%2F2026%2F2027%2FW%2F04",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4958,7 +4860,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=7410%2F2026%2F2027%2FG%2F170",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4973,7 +4875,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=7309%2F2026%2F2027%2FNC%2F37",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4988,7 +4890,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=7205%2F2026%2F2027%2FW%2F13",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5003,7 +4905,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F034%2F2026%2F2027%2FG%2F22",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5018,7 +4920,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=47BB5%2F2026%2F2027%2FW%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5048,7 +4950,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=87V6%2F2026%2F2027%2FW%2F09",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5063,7 +4965,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=57%2F2026%2F2027%2FG%2F07",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5108,21 +5010,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=75F2%2F2026%2F2027%2FW%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "FRAMEWORK CONTRACT FOR SUPPLY OF ULTRA HIGH P...",
-      "reference": "UNBS/SUPLS/2026-2027/00047",
-      "procuringEntity": "Uganda National Bureau of Standards",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-11",
-      "publishedDate": "2026-11-14",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425759848_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5137,7 +5025,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FG%2F56",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5170,62 +5058,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "PURCHASE OF LIGHT MOTOR VEHICLES FOR UNBS OPE...",
-      "reference": "UNBS/SUPLS/2026-2027/00044",
-      "procuringEntity": "Uganda National Bureau of Standards",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-11",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425306024_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Other - Professional Services - Data Warehous...",
-      "reference": "UNBS/NCONS/2026-2027/00121",
-      "procuringEntity": "Uganda National Bureau of Standards",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-11",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425297920_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Subscriptions - Next-Generation Firewall Lice...",
-      "reference": "UNBS/NCONS/2026-2027/00082",
-      "procuringEntity": "Uganda National Bureau of Standards",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-11",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425457974_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Low Cost Sealing of Akaba Road (0.697km), Ejo...",
-      "reference": "MOWT/WRKS/2026-2027/00007",
-      "procuringEntity": "Ministry of Works and Transport",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-11",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425640314_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Kenya PPIP",
       "title": "THREE-YEAR FRAMEWORK CONTRACT FOR SUPPLY OF COPPER AND ALUMINIUM WINDING WIRE",
       "reference": "KP1/9A.3/OT/13/FC/26-27",
@@ -5241,62 +5073,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Building, Construction, Architectural, Plumbi...",
-      "reference": "MOWT/WRKS/2026-2027/00001",
-      "procuringEntity": "Ministry of Works and Transport",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-10",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425565352_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "FRAMEWORK CONTRACT FOR SERVICING AND MAINTENA...",
-      "reference": "UCAA/NCONS/2026-2027/00224",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-09",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425741614_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Civil Works for Upgrading Seruwungu road & Ak...",
-      "reference": "MOWT/WRKS/2026-2027/00015",
-      "procuringEntity": "Ministry of Works and Transport",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-09",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425648418_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Low Cost Nalweyo-Rapzih Road (1.032km), ⁠Ki...",
-      "reference": "MOWT/WRKS/2026-2027/00005",
-      "procuringEntity": "Ministry of Works and Transport",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-09",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425713250_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "PROVISION OF CONSULTANCY SERVICE FOR SUPERVISION OF WORK, MANAGEMENT OF CONTRACT AND COMMISSION OF NEW STATE OF ART TUG BOATS HAVING THE BOLLARD PULL OF 30TONS IN WHICH 2 ARE INTENDED TO BE BUILT IN LAKE TANGANYIKA, 1 INTENDED TO BE BUILT IN LAKE VICTORIA AND 1 INTENDED TO BE BUILT IN LAKE NYASA",
       "reference": "TR173/2025/2026/C/23",
@@ -5309,7 +5085,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR173%2F2025%2F2026%2FC%2F23",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -5417,20 +5193,6 @@
       "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Civil Works for Upgrading to Bitumen standard...",
-      "reference": "MOWT/WRKS/2026-2027/00016",
-      "procuringEntity": "Ministry of Works and Transport",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-04",
-      "publishedDate": "2026-11-13",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/425539014_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "Construction and facilitation of New Administration Block, Fish Processing Building and Small Business Building at Bagamoyo Fish Market in Bagamoyo District",
       "reference": "TR99/TASFAM/P179969/2026/2027/W/01",
@@ -5443,7 +5205,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR99%2FTASFAM%2FP179969%2F2026%2F2027%2FW%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5458,7 +5220,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR201%2FCCP%2FP155759%2F2026%2F2027%2FG%2F04",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5683,7 +5445,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR26%2F2026%2F2027%2FNC%2F38",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5698,7 +5460,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR26%2F2026%2F2027%2FNC%2F37",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5713,7 +5475,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR26%2F2026%2F2027%2FNC%2F36",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5728,7 +5490,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR26%2F2026%2F2027%2FNC%2F35",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5743,7 +5505,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR26%2F2026%2F2027%2FNC%2F34",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5758,7 +5520,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR26%2F2026%2F2027%2FNC%2F33",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5878,7 +5640,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=81M2%2F2026%2F2027%2FW%2F05",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5923,7 +5685,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=76G4%2F2026%2F2027%2FW%2F08",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5983,7 +5745,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=47BB5%2F2026%2F2027%2FW%2F11",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6073,7 +5835,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR226%2F2026%2F2027%2FC%2F15",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -6088,7 +5850,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FC%2F11",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -6103,7 +5865,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F022%2F2026%2F2027%2FC%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6268,7 +6030,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=81M6%2F2026%2F2027%2FC%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -6283,7 +6045,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=49%2F005%2F2026%2F2027%2FG%2F16",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6298,34 +6060,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312406",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Framework Contract for Borehole Drilling, Con...",
-      "reference": "MoWE/WRKS/2026-2027/00074",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-15",
-      "publishedDate": "2026-11-12",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/424949448_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Framework Contract for Consultancy Services f...",
-      "reference": "MoWE/CONS/2026-2027/00032",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-15",
-      "publishedDate": "2026-11-12",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/424951474_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -7090,7 +6824,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-mo05qxgunsp9-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7630,7 +7364,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR120%2F2026%2F2027%2FG%2F32",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7675,34 +7409,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312672",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Supply and delivery of Contagious Bovine Pleu...",
-      "reference": "MAAIF/SUPLS/2026-2027/00029",
-      "procuringEntity": "Ministry of Agriculture, Animal Industry & Fisheries",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-10",
-      "publishedDate": "2026-11-11",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/424286946_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Supply of Four (04) Double Cabin Pickup Motor...",
-      "reference": "MEMD/SUPLS/2026-2027/00012",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-03",
-      "publishedDate": "2026-11-11",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/424139048_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -7781,20 +7487,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "PROCUREMENT OF STATION WAGON VEHICLES...",
-      "reference": "MEACA/SUPLS/2026-2027/00032",
-      "procuringEntity": "Ministry of East African Community Affairs",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-02",
-      "publishedDate": "2026-11-11",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/424284920_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "Proposed Design and Construction of Senior Staff Residential Houses at the Bank of Tanzania, Kigoma",
       "reference": "TR152/2026/2027/W/08",
@@ -7807,7 +7499,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FW%2F08",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7822,7 +7514,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR187%2F2026%2F2027%2FC%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7851,7 +7543,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51666",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -7865,7 +7557,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51665",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -7879,7 +7571,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51636",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7894,7 +7586,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR99%2FTASFAM%2FP179969%2F2025%2F2026%2FW%2F02%3B+TZ-MLF-512188-CW-RFB",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7924,7 +7616,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR136%2F2026%2F2027%2FG%2F46",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -8017,20 +7709,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "PROCUREMENT OF EIGHT (8) STATION WAGONS AND F...",
-      "reference": "MTIC/SUPLS/2026-2027/00022",
-      "procuringEntity": "Ministry of Trade, Industry and Cooperatives",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-11",
-      "publishedDate": "2026-11-10",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/423417792_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Kenya PPIP",
       "title": "Supply, Delivery, Installation and Testing of ICT Equipment LOT 1: Computing Devices, LOT 2: Printing, Scanning & Document Management Equipment, LOT 3: Specialized ICT, Design & Multimedia Equipment for the State Department for Roads and The Kenya Institute for Supplies Management",
       "reference": "RFB NO.: KE-SDOR-KISM- 561877-GO-RFB",
@@ -8058,21 +7736,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F2026%2F2027%2FW%2F19",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Other - Professional Services - A National IT...",
-      "reference": "NITA/CONS/2026-2027/00001",
-      "procuringEntity": "National Information Technology Authority-Uganda (NITA-U)",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-03",
-      "publishedDate": "2026-11-10",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/423559612_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -8645,34 +8309,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "FRAMEWORK CONTRACT FOR SERVICING AND MAINTENA...",
-      "reference": "UCAA/NCONS/2026-2027/00225",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-17",
-      "publishedDate": "2026-11-09",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/423138204_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Supply of Multipurpose foam liquid concentrat...",
-      "reference": "UCAA/SUPLS/2026-2027/00112",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-10",
-      "publishedDate": "2026-11-09",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/422963968_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "Supply and Commissioning of Patrol Boats for TRA Operations",
       "reference": "TR134/2026/2027/G/57",
@@ -8685,7 +8321,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR134%2F2026%2F2027%2FG%2F57",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "World Bank",
@@ -8699,7 +8335,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480356",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "World Bank",
@@ -8713,7 +8349,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479939",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "World Bank",
@@ -8727,7 +8363,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479940",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "World Bank",
@@ -8741,7 +8377,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479942",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -9385,7 +9021,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51554",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -9400,7 +9036,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR226%2F2026%2F2027%2FG%2F59",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -9448,20 +9084,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Other - Professional Services - Framework for...",
-      "reference": "MOICT/CONS/2026-2027/00001",
-      "procuringEntity": "Ministry of Information, Communications Technology and National Guidance",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-24",
-      "publishedDate": "2026-11-09",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/423219244_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "Construction of office building at TARI Hombolo",
       "reference": "X11/2026/2027/W/15",
@@ -9474,7 +9096,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X11%2F2026%2F2027%2FW%2F15",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -9518,7 +9140,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51548",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -9731,20 +9353,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Engraving - Asset Engraving...",
-      "reference": "UCAA/NCONS/2026-2027/00157",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-08",
-      "publishedDate": "2026-11-07",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/422317674_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "UNABSEC tender bulletin",
       "title": "Teso College Aloet supplier prequalification for goods, services and works, 2027–2028",
       "reference": "TCA/PR/01/2027/2028",
@@ -9786,7 +9394,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FW%2F07",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -9801,20 +9409,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311896",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Feasibility studies for large projects - Cons...",
-      "reference": "MEMD/CONS/2026-2027/00027",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-27",
-      "publishedDate": "2026-11-06",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/422149516_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -9860,7 +9454,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F020%2F2026%2F2027%2FC%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -9889,7 +9483,7 @@
       "publishedDate": "2026-11-05",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-byqs8f7wzd25-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -9919,7 +9513,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR212%2F2026%2F2027%2FG%2F231",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -9934,7 +9528,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F020%2F2026%2F2027%2FC%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -10072,48 +9666,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "ICT Hardware and Software Solutions - Annual ...",
-      "reference": "UCAA/NCONS/2026-2027/00173",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-30",
-      "publishedDate": "2026-11-03",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/418634406_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Other Categories - Provision of Cleaning Serv...",
-      "reference": "UCAA/NCONS/2026-2027/00186",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-27",
-      "publishedDate": "2026-11-03",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/419461014_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "FRAMEWORK CONTRACT FOR ANNUAL MAINTENANCE AND...",
-      "reference": "UCAA/SUPLS/2025-2026/00167",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-26",
-      "publishedDate": "2026-11-03",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/418468274_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Kenya PPIP",
       "title": "Supply & Delivery of Motorcycles",
       "reference": "MUSWASCO/KWASH/26-27/04",
@@ -10159,20 +9711,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Procurement consultancy - CONSULTANCY SE4RVIC...",
-      "reference": "MoLHUD/CONS/2026-2027/00006",
-      "procuringEntity": "Ministry of Lands, Housing and Urban Development",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-02",
-      "publishedDate": "2026-11-02",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/417927332_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "Supply of Single Phase, Three Phase Smart meters and Data Concentrator Units (DCUs) for Lastmile Connection Under 400kV North-West Grid Nyakanazi - Kigoma Transmission Line Project",
       "reference": "TR212/2026/2027/G/310",
@@ -10185,7 +9723,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR212%2F2026%2F2027%2FG%2F310",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -10215,20 +9753,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311084",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Procurement of Consultancy Services for Consu...",
-      "reference": "MEMD/CONS/2026-2027/00020",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-23",
-      "publishedDate": "2026-11-02",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/418302142_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -10288,21 +9812,7 @@
       "publishedDate": "2026-10-29",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51264",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Well drilling and construction services - Sup...",
-      "reference": "MEMD/CONS/2026-2027/00017",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-02",
-      "publishedDate": "2026-10-29",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/416977138_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -10317,7 +9827,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=Y9%2F2026%2F2027%2FG%2F82",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -10332,48 +9842,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/310213",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Brand visibility - PROCUREMENT OF INFORMATION...",
-      "reference": "MoWE/SUPLS/2026-2027/00087",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-12-08",
-      "publishedDate": "2026-10-27",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/415688602_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Consultancy Services for Environmental and So...",
-      "reference": "MOH/CONS/2026-2027/00001",
-      "procuringEntity": "Ministry of Health",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-27",
-      "publishedDate": "2026-10-27",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/415637952_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Motor vehicles - Specialized Vehicles for geo...",
-      "reference": "MEMD/SUPLS/2026-2027/00057",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-25",
-      "publishedDate": "2026-10-27",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/415789902_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -10422,20 +9890,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Exploitation of Minerals and Petroleum - Mine...",
-      "reference": "MEMD/WRKS/2026-2027/00015",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Works",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-30",
-      "publishedDate": "2026-10-23",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/414594562_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Kenya PPIP",
       "title": "MULTINATIONAL HORN OF AFRICA ISIOLO – MANDERA CORRIDOR:CONSULTING SERVICES FOR IRAP STAR RATING ASSESSMENT & ROAD SAFETY AUDIT OF SELECT MAJOR CORRIDORS (2,500 KM) AND INSTITUTIONAL SUPPORT ON DEVELOPMENT OF KENYA ROAD ASSESSMENT PROGRAM (KenRAP)",
       "reference": "KeNHA/3010/2026",
@@ -10448,20 +9902,6 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/310402",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Procurement of service provider for repair an...",
-      "reference": "MoWE/NCONS/2026-2027/00057",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-24",
-      "publishedDate": "2026-10-23",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/413930034_egp",
-      "status": "active",
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
@@ -10480,34 +9920,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "ICT Hardware and Software Solutions - Annual ...",
-      "reference": "UCAA/NCONS/2026-2027/00183",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-23",
-      "publishedDate": "2026-10-23",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/414592536_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "FRAMEWORK CONTRACT FOR SERVICING AND MAINTENA...",
-      "reference": "UCAA/NCONS/2026-2027/00164",
-      "procuringEntity": "Uganda Civil Aviation Authority",
-      "category": "Non-consultancy services",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-23",
-      "publishedDate": "2026-10-23",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/414778928_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Tanzania NeST",
       "title": "Design, Build and Commission of two (2) new tanker vessels each having carrying capacity of 500,000 litres in lakeTanganyika",
       "reference": "TR173/2026/2027/W/14",
@@ -10520,7 +9932,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR173%2F2026%2F2027%2FW%2F14",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -10568,20 +9980,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Advertising and media services - Procurement ...",
-      "reference": "MoWE/SUPLS/2026-2027/00081",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-26",
-      "publishedDate": "2026-10-21",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/412951476_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "Kenya PPIP",
       "title": "REQUEST FOR PROPOSALS FOR THE PROVISION OF FRAMEWORK FOR FINANCE & ACCOUNTING, INTERGRATED REPORTING AND IMPLEMENTATION OF ESG & SUSTAINABILITY STANDARDS (S1&S2) CONSULTANCY SERVICES (LOT-WISE) FOR THE CENTRAL BANK OF KENYA FOR A PERIOD OF THREE YEARS",
       "reference": "CBK/RFP/038/2026-2027",
@@ -10597,62 +9995,6 @@
       "checkedAt": "2026-11-21T08:33:31+00:00"
     },
     {
-      "source": "Uganda eGP",
-      "title": "Supply of Pipes and fittings for MBWD Facili...",
-      "reference": "MoWE/SUPLS/2026-2027/00129",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-24",
-      "publishedDate": "2026-10-21",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/413198648_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Building and construction materials - Procure...",
-      "reference": "MoWE/SUPLS/2026-2027/00096",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-24",
-      "publishedDate": "2026-10-21",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/413044672_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Generators and solar equipment - Supply & Ins...",
-      "reference": "MoWE/SUPLS/2026-2027/00092",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-26",
-      "publishedDate": "2026-10-20",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/412207934_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "CONSULTANCY TO CONDUCT NATIONAL/LOCAL CONTENT...",
-      "reference": "MEMD/CONS/2026-2027/00005",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Consultancy",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-26",
-      "publishedDate": "2026-10-20",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/412244402_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
       "source": "World Bank",
       "title": "Procurement of a Digital Solution for Equitable Health Care Among Refugee Communities",
       "reference": "UG-NITA-U-571822-NC-RFB",
@@ -10664,7 +10006,7 @@
       "publishedDate": "2026-10-19",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475833",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "World Bank",
@@ -10678,35 +10020,7 @@
       "publishedDate": "2026-10-16",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475664",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Agricultural Inputs, Equipment and Seedlings ...",
-      "reference": "MoWE/SUPLS/2026-2027/00134",
-      "procuringEntity": "Ministry of Water & Environment",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-26",
-      "publishedDate": "2026-10-15",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/410787708_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
-    },
-    {
-      "source": "Uganda eGP",
-      "title": "Procurement of Motor Vehicles...",
-      "reference": "MEMD/SUPLS/2026-2027/00105",
-      "procuringEntity": "Ministry of Energy & Mineral Development",
-      "category": "Supplies",
-      "location": "Uganda",
-      "region": "Uganda",
-      "closingDate": "2026-11-25",
-      "publishedDate": "2026-10-14",
-      "bidDocumentsUrl": "https://egpuganda.go.ug/index/410380482_egp",
-      "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -10765,7 +10079,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471365",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "World Bank",
@@ -10779,7 +10093,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474290",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -10793,7 +10107,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50604",
       "status": "active",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -10838,7 +10152,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR126%2F2026%2F2027%2FNC%2F11",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-21T08:33:31+00:00"
+      "checkedAt": "2026-11-21T16:45:08+00:00"
     },
     {
       "source": "Kenya PPIP",
