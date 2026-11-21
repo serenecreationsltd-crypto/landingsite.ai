@@ -8,7 +8,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urlencode, urljoin, urlsplit
+from urllib.parse import parse_qs, urlencode, urljoin, urlsplit
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
@@ -16,9 +16,14 @@ from bs4 import BeautifulSoup
 
 
 EAT = ZoneInfo("Africa/Kampala")
+NEW_YORK = ZoneInfo("America/New_York")
+CENTRAL_EUROPE = {"CET": timezone(timedelta(hours=1)), "CEST": timezone(timedelta(hours=2))}
 EGP = "https://egpuganda.go.ug/bid-notices"
 GOAL = "https://www.goalglobal.org/tenders/"
+UNDP = "https://procurement-notices.undp.org/"
+UNIDO = "https://www.unido.org/get-involved/procurement/procurement-opportunities"
 WB = "https://search.worldbank.org/api/v2/procnotices"
+WHH = "https://www.welthungerhilfe.org/tenders/"
 WB_TYPES = (
     "Invitation for Bids", "Invitation for Prequalification", "Request for Expression of Interest",
     "Request for Bids", "Request for Proposals", "Request for Quotations",
@@ -201,6 +206,145 @@ def parse_goal(html):
     return rows
 
 
+def parse_undp(html):
+    page = BeautifulSoup(html, "html.parser")
+    entries = page.select("a.vacanciesTable__row[href]")
+    if not entries:
+        raise ValueError("No UNDP procurement notices found")
+    rows = []
+    for entry in entries:
+        fields = {}
+        for cell in entry.select(".vacanciesTable__cell"):
+            label = cell.select_one(".vacanciesTable__cell__label")
+            value = cell.select_one("span")
+            if label and value:
+                fields[compact(label.get_text())] = compact(value.get_text(" "))
+        office, _, country = fields.get("UNDP Office/Country", "").partition("/")
+        if country.strip().upper() != "UGANDA":
+            continue
+        title = fields.get("Title", "")
+        process = fields.get("Process", "").partition(" - ")[0]
+        ref = re.fullmatch(r"([A-Z0-9]+(?:-[A-Z0-9]+)*-\d+)(?:,\d+)?", fields.get("Ref No", ""))
+        link = re.fullmatch(r"/?view_negotiation\.cfm\?nego_id=\d+", entry["href"])
+        if not ref or not link or process not in {"ITB", "RFQ", "RFP", "IC"} or re.search(r"\b(cancelled|withdrawn)\b", title, re.I):
+            continue
+        try:
+            close = datetime.strptime(fields.get("Deadline", ""), "%d-%b-%y %I:%M %p (New York time)")
+            close = close.replace(tzinfo=NEW_YORK).astimezone(EAT).isoformat()
+            published = datetime.strptime(fields.get("Posted", ""), "%d-%b-%y").date().isoformat()
+        except ValueError:
+            continue
+        category = {"ITB": "Procurement", "RFQ": "Procurement", "RFP": "Consultancy", "IC": "Consultancy"}[process]
+        if re.search(r"\b(construction|civil works|rehabilitation of (a |the )?(road|building|bridge))\b", title, re.I):
+            category = "Works"
+        elif re.search(r"\bsuppl(?:y|ies|ier)\b", title, re.I):
+            category = "Supplies"
+        buyer = {"UNDP-UGA": "UNDP Uganda", "UNDP-HQ": "UNDP", "UNCDF": "UNCDF Uganda"}.get(office.strip(), office.strip())
+        rows.append(notice("UNDP Procurement Notices", title, ref[1], buyer, category, close, published, urljoin(UNDP, link[0])))
+    return rows
+
+
+def central_europe_deadline(value, zone):
+    local = datetime.strptime(value, "%d.%m.%Y %H:%M:%S")
+    return local.replace(tzinfo=CENTRAL_EUROPE[zone]).astimezone(EAT).isoformat()
+
+
+def parse_unido(html):
+    page = BeautifulSoup(html, "html.parser")
+    columns = ["Title", "Beneficiary Country", "Deadline", "Type", "Event Number", "Registration"]
+    table = next((table for table in page.select("table")
+                  if [compact(th.get_text()) for th in table.select("thead th")] == columns), None)
+    if table is None:
+        raise ValueError("No UNIDO current opportunities table found")
+    rows = []
+    for row in table.select("tbody tr"):
+        cells = [compact(cell.get_text(" ")) for cell in row.find_all("td", recursive=False)]
+        if len(cells) != len(columns):
+            continue
+        title, country, deadline, method, event, _ = cells
+        if country.casefold() != "uganda" or not re.fullmatch(r"\d{10}", event):
+            continue
+        if re.search(r"\b(cancelled|withdrawn)\b", title + " " + method, re.I):
+            continue
+        clock, _, zone = deadline.rpartition(" ")
+        try:
+            close = central_europe_deadline(clock, zone)
+        except (KeyError, ValueError):
+            continue
+        category = "Procurement"
+        if re.search(r"\b(construction|civil works|rehabilitation)\b", title, re.I):
+            category = "Works"
+        elif re.search(r"\bconsultancy\b", title, re.I):
+            category = "Consultancy"
+        published = ""
+        if event == "7000008958":
+            # The published event title and release date are on the UNGM notice.
+            # UNIDO's own current tender table provides the updated deadline.
+            title = "Construction of the Italy–Uganda Coffee Training Centre in Kampala"
+            published = "2026-11-06"
+        rows.append(notice("UNIDO", title, event, "UNIDO", category, close, published, UNIDO))
+    return rows
+
+
+def whh_rows(read, now):
+    page = BeautifulSoup(read(WHH), "html.parser")
+    entries = page.select(".tender__list__item")
+    if not entries:
+        raise ValueError("No Welthungerhilfe tender listings found")
+    rows = []
+    unavailable = 0
+    for entry in entries:
+        buyer = entry.select_one(".tender__list__item__client")
+        if not buyer or compact(buyer.get_text()).casefold() != "contracting authority: welthungerhilfe uganda":
+            continue
+        link = entry.select_one(".tender__list__item__title a[href]")
+        listed_close = entry.select_one(".tender__list__item__deadline")
+        posted = entry.select_one(".tender__list__item__date")
+        if not link or not listed_close or not posted:
+            continue
+        portal = urlsplit(link["href"])
+        identifier = parse_qs(portal.query).get("PID", [""])[0]
+        if portal.scheme != "https" or portal.netloc != "eu.eu-supply.com" or not re.fullmatch(r"\d+", identifier):
+            continue
+        listed_day = re.search(r"\d{2}\.\d{2}\.\d{4}", listed_close.get_text())
+        posted_day = re.search(r"\d{2}\.\d{2}\.\d{4}", posted.get_text())
+        if not listed_day or not posted_day:
+            continue
+        try:
+            # The index sometimes displays a malformed time. Read the portal
+            # notice itself for the actual reference and deadline time.
+            index_day = datetime.strptime(listed_day[0], "%d.%m.%Y").date()
+            if index_day < now.astimezone(EAT).date() - timedelta(days=1):
+                continue
+            published = datetime.strptime(posted_day[0], "%d.%m.%Y").date().isoformat()
+            url = f"https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/{identifier}/0/0?b=WELTHUNGERHILFE"
+            detail = BeautifulSoup(read(url), "html.parser")
+            heading = detail.select_one(".ctm-header-pane h1")
+            ref, delimiter, title = compact(heading.get_text(" ") if heading else "").partition(" - ")
+            if not delimiter or not title or not re.search(r"\d", ref):
+                raise ValueError("Missing Welthungerhilfe tender reference")
+            if re.search(r"\b(cancelled|withdrawn)\b", title, re.I):
+                continue
+            fields = {}
+            for label in detail.select("#tenderInfoSection .ctm-content-label"):
+                value = label.find_next_sibling("p")
+                if value:
+                    fields[compact(label.get_text())] = compact(value.get_text(" "))
+            deadline = next((central_europe_deadline(fields[f"Response deadline ({zone}):"], zone)
+                             for zone in CENTRAL_EUROPE if f"Response deadline ({zone}):" in fields), "")
+            if not deadline:
+                raise ValueError("Missing Welthungerhilfe deadline")
+        except (OSError, ValueError):
+            unavailable += 1
+            continue
+        group = fields.get("Type of contract:", "").casefold()
+        category = CATEGORIES.get(group, "Consultancy" if "consultancy" in title.casefold() else "Procurement")
+        rows.append(notice("Welthungerhilfe Uganda", title, ref, "Welthungerhilfe Uganda", category, deadline, published, url))
+    if unavailable:
+        raise ValueError(f"Could not verify {unavailable} Welthungerhilfe detail notices")
+    return rows
+
+
 def wb_rows(read, today):
     offset = 0
     while True:
@@ -229,6 +373,9 @@ def refresh(previous, now, read=fetch):
         "Uganda eGP": lambda: parse_egp(read(EGP)),
         "World Bank": lambda: wb_rows(read, today),
         "GOAL Uganda": lambda: parse_goal(read(GOAL)),
+        "UNDP Procurement Notices": lambda: parse_undp(read(UNDP)),
+        "UNIDO": lambda: parse_unido(read(UNIDO)),
+        "Welthungerhilfe Uganda": lambda: whh_rows(read, now),
     }
     metadata = {}
     records = []

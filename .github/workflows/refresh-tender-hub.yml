@@ -28,7 +28,7 @@ jobs:
           python-version: '3.12'
       - name: Install the HTML parser
         run: python -m pip install beautifulsoup4==4.13.4
-      - name: Refresh the three public tender sources
+      - name: Refresh the public tender sources
         run: python tender-research/refresh_open_tenders.py
       - name: Publish the feed snapshot
         run: |

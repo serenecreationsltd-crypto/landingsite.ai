@@ -1,24 +1,53 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-21T04:35:48+00:00",
+  "generatedAt": "2026-11-21T04:50:06+00:00",
   "sources": {
     "Uganda eGP": {
-      "checkedAt": "2026-11-21T04:35:48+00:00",
+      "checkedAt": "2026-11-21T04:50:06+00:00",
       "state": "ok",
       "openRecords": 49
     },
     "World Bank": {
-      "checkedAt": "2026-11-21T04:35:48+00:00",
+      "checkedAt": "2026-11-21T04:50:06+00:00",
       "state": "ok",
       "openRecords": 8
     },
     "GOAL Uganda": {
-      "checkedAt": "2026-11-21T04:35:48+00:00",
+      "checkedAt": "2026-11-21T04:50:06+00:00",
+      "state": "ok",
+      "openRecords": 2
+    },
+    "UNDP Procurement Notices": {
+      "checkedAt": "2026-11-21T04:50:06+00:00",
+      "state": "ok",
+      "openRecords": 12
+    },
+    "UNIDO": {
+      "checkedAt": "2026-11-21T04:50:06+00:00",
+      "state": "ok",
+      "openRecords": 1
+    },
+    "Welthungerhilfe Uganda": {
+      "checkedAt": "2026-11-21T04:50:06+00:00",
       "state": "ok",
       "openRecords": 2
     }
   },
   "records": [
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "Construction of proposed roadside market at wobulenzi town council",
+      "reference": "UNDP-UGA-00615",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Works",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-07T15:00:00+03:00",
+      "publishedDate": "2026-11-19",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51923",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
     {
       "source": "Uganda eGP",
       "title": "FEASIBILITY STUDY AND ENGINEERING DESIGNS FOR...",
@@ -31,7 +60,21 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/427579196_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "Supply and Installation of EDiC Motor rewinding System to EDiC) – Centre - Rwbit",
+      "reference": "UNDP-UGA-00616",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Supplies",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-01T18:34:00+03:00",
+      "publishedDate": "2026-11-19",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51912",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -45,7 +88,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426641158_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -59,7 +102,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/427141580_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -73,7 +116,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426789056_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -87,7 +130,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426333206_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -101,7 +144,49 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426187334_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "Procurement for the provision of Business Development Services (BDS)",
+      "reference": "UNCDF-00727",
+      "procuringEntity": "UNCDF Uganda",
+      "category": "Consultancy",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-01T19:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51818",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "Recruitment of a National Firm to Conduct End of Programme Evaluation - Spotligh",
+      "reference": "UNDP-UGA-00613",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Consultancy",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-30T19:29:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "National Events Management Firm for the Greater Luwero Investment Forum and Expo",
+      "reference": "UNDP-UGA-00614",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Procurement",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-26T16:35:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51821",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -115,7 +200,35 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425846966_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "Welthungerhilfe Uganda",
+      "title": "Major Rehabilitation of Seventy (70) Deep Boreholes in Katakwi, Soroti, Amuria, Kapelebyong and Napak Districts",
+      "reference": "UGA 1208/042/2026",
+      "procuringEntity": "Welthungerhilfe Uganda",
+      "category": "Works",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-08T19:30:00+03:00",
+      "publishedDate": "2026-11-16",
+      "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463259/0/0?b=WELTHUNGERHILFE",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "Welthungerhilfe Uganda",
+      "title": "Construction of a Solar Powered Piped Water Supply System at Akore Town Council, Kapelebyong District",
+      "reference": "UGA 1208/041/2026",
+      "procuringEntity": "Welthungerhilfe Uganda",
+      "category": "Works",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-08T19:30:00+03:00",
+      "publishedDate": "2026-11-16",
+      "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463254/0/0?b=WELTHUNGERHILFE",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -129,7 +242,7 @@
       "publishedDate": "2026-11-14",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425759848_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -143,7 +256,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425306024_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -157,7 +270,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425297920_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -171,7 +284,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425457974_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -185,7 +298,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425640314_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -199,7 +312,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425565352_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -213,7 +326,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425741614_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -227,7 +340,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425648418_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -241,7 +354,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425713250_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -255,7 +368,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425539014_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -269,7 +382,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424949448_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -283,7 +396,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424951474_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "GOAL Uganda",
@@ -297,7 +410,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-mo05qxgunsp9-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -311,7 +424,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424286946_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -325,7 +438,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424139048_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -339,7 +452,49 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424284920_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "National Individual Consultant - a Designer for Spotlight Initiative 2.0 Joint P",
+      "reference": "UNDP-UGA-00610",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Consultancy",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-24T18:30:00+03:00",
+      "publishedDate": "2026-11-11",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51666",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "National Individual Consultant as an Editor for Spotlight Initiative 2.0 program",
+      "reference": "UNDP-UGA-00609",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Consultancy",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-24T16:48:00+03:00",
+      "publishedDate": "2026-11-11",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51665",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "NATIONAL TENDER SUPPLIES MATERIALS TO OCOKO REHABILITATION CENTRE ARUA DISTRICT",
+      "reference": "UNDP-UGA-00608",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Supplies",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-24T16:31:00+03:00",
+      "publishedDate": "2026-11-11",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51636",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -353,7 +508,7 @@
       "publishedDate": "2026-11-10",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423417792_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -367,7 +522,7 @@
       "publishedDate": "2026-11-10",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423559612_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -381,7 +536,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423138204_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -395,7 +550,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422963968_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -409,7 +564,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480356",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -423,7 +578,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479939",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -437,7 +592,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479940",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -451,7 +606,21 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479942",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "NATIONAL SUPPLIER FOR THE SUPPLY AND INSTALLATION OF 24 FISH FEED EQUIPMENT",
+      "reference": "UNDP-UGA-00607",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Supplies",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-24T19:16:00+03:00",
+      "publishedDate": "2026-11-09",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51554",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -465,7 +634,21 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423219244_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "National IC to support the mapping power for scaling agroecology implementation",
+      "reference": "UNDP-UGA-00606",
+      "procuringEntity": "UNDP Uganda",
+      "category": "Consultancy",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-23T12:59:00+03:00",
+      "publishedDate": "2026-11-09",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51548",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -479,7 +662,21 @@
       "publishedDate": "2026-11-07",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422317674_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNIDO",
+      "title": "Construction of the Italy–Uganda Coffee Training Centre in Kampala",
+      "reference": "7000008958",
+      "procuringEntity": "UNIDO",
+      "category": "Works",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-03T19:00:00+03:00",
+      "publishedDate": "2026-11-06",
+      "bidDocumentsUrl": "https://www.unido.org/get-involved/procurement/procurement-opportunities",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -493,7 +690,7 @@
       "publishedDate": "2026-11-06",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422149516_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "GOAL Uganda",
@@ -507,7 +704,7 @@
       "publishedDate": "2026-11-05",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-byqs8f7wzd25-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -521,7 +718,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418634406_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -535,7 +732,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/419461014_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -549,7 +746,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418468274_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -563,7 +760,7 @@
       "publishedDate": "2026-11-02",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/417927332_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -577,7 +774,21 @@
       "publishedDate": "2026-11-02",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418302142_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "Provision of Digital Solution for Financial Management and Market linkages, UG",
+      "reference": "UNCDF-00718",
+      "procuringEntity": "UNCDF Uganda",
+      "category": "Consultancy",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-02T01:59:00+03:00",
+      "publishedDate": "2026-10-29",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51264",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -591,7 +802,7 @@
       "publishedDate": "2026-10-29",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/416977138_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -605,7 +816,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415688602_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -619,7 +830,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415637952_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -633,7 +844,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415789902_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -647,7 +858,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414594562_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -661,7 +872,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413930034_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -675,7 +886,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414592536_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -689,7 +900,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414778928_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -703,7 +914,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412951476_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -717,7 +928,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413198648_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -731,7 +942,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413044672_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -745,7 +956,7 @@
       "publishedDate": "2026-10-20",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412207934_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -759,7 +970,7 @@
       "publishedDate": "2026-10-20",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412244402_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -773,7 +984,7 @@
       "publishedDate": "2026-10-19",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475833",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -787,7 +998,7 @@
       "publishedDate": "2026-10-16",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475664",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -801,7 +1012,7 @@
       "publishedDate": "2026-10-15",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/410787708_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -815,7 +1026,7 @@
       "publishedDate": "2026-10-14",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/410380482_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -829,7 +1040,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471365",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     },
     {
       "source": "World Bank",
@@ -843,7 +1054,21 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474290",
       "status": "active",
-      "checkedAt": "2026-11-21T04:35:48+00:00"
+      "checkedAt": "2026-11-21T04:50:06+00:00"
+    },
+    {
+      "source": "UNDP Procurement Notices",
+      "title": "Project to Improve and Strengthen Waste Management in Masaka City, Uganda",
+      "reference": "UNDP-HQ-02355",
+      "procuringEntity": "UNDP",
+      "category": "Consultancy",
+      "location": "Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-12-01T08:59:00+03:00",
+      "publishedDate": "2026-10-12",
+      "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50604",
+      "status": "active",
+      "checkedAt": "2026-11-21T04:50:06+00:00"
     }
   ]
 }
