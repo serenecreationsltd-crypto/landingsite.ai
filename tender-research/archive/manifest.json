@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "publisher": "Public Procurement and Disposal of Public Assets Authority (Uganda)",
+  "source": "https://data.open-contracting.org/en/publication/130",
+  "officialPortal": "https://gpp.ppda.go.ug/public/bid-invitations",
+  "license": "https://opendatacommons.org/licenses/by/1-0/",
+  "snapshotDate": "2026-10-24",
+  "totalRecords": 9484,
+  "columns": [
+    "ocid",
+    "title",
+    "buyer",
+    "method",
+    "status",
+    "deadline",
+    "updated",
+    "awards",
+    "portalId"
+  ],
+  "years": [
+    {
+      "year": 2026,
+      "file": "ppda-2026-0414493ae037.json.gz",
+      "records": 1979,
+      "source": "https://data.open-contracting.org/en/publication/130/download?name=2026.jsonl.gz"
+    },
+    {
+      "year": 2025,
+      "file": "ppda-2025-527c97c83935.json.gz",
+      "records": 3830,
+      "source": "https://data.open-contracting.org/en/publication/130/download?name=2025.jsonl.gz"
+    },
+    {
+      "year": 2024,
+      "file": "ppda-2024-349704feea8f.json.gz",
+      "records": 3675,
+      "source": "https://data.open-contracting.org/en/publication/130/download?name=2024.jsonl.gz"
+    }
+  ]
+}
