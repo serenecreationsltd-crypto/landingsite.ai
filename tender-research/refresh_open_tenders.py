@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Refresh the Serene Tender Hub's Uganda open-notice snapshot."""
+"""Refresh the Serene Tender Hub's East Africa open-notice snapshot."""
 
 import argparse
 import hashlib
 import json
+import os
 import re
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -22,6 +23,10 @@ NEW_YORK = ZoneInfo("America/New_York")
 CENTRAL_EUROPE = {"CET": timezone(timedelta(hours=1)), "CEST": timezone(timedelta(hours=2))}
 EGP = "https://egpuganda.go.ug/bid-notices"
 GOAL = "https://www.goalglobal.org/tenders/"
+KENYA_TENDERS = "https://tenders.go.ke/tenders/"
+KENYA_ACTIVE = "https://tenders.go.ke/api/active-tenders"
+TANZANIA_TENDERS = "https://nest.go.tz/tenders/published-tenders"
+TANZANIA_API = "https://nest.go.tz/gateway/nest-app/graphql"
 UNDP = "https://procurement-notices.undp.org/"
 UNABSEC = "https://www.unabsec.co.ug/opportunities/tenders"
 UNIDO = "https://www.unido.org/get-involved/procurement/procurement-opportunities"
@@ -32,6 +37,12 @@ WB_TYPES = (
     "Request for Bids", "Request for Proposals", "Request for Quotations",
 )
 MAX_STALE = timedelta(hours=36)
+OPEN_NOTICE_TARGET = 200
+REGIONAL_CATEGORIES = {
+    "goods": "Supplies", "works": "Works", "consultancy": "Consultancy",
+    "consultancy services": "Consultancy", "non consultancy": "Non-consultancy services",
+    "non consultancy services": "Non-consultancy services",
+}
 CATEGORIES = {
     "works": "Works", "supplies": "Supplies", "consultancy services": "Consultancy",
     "non consultancy services": "Non-consultancy services", "CW": "Works", "GO": "Supplies",
@@ -47,8 +58,11 @@ def reference_key(value):
     return re.sub(r"[^A-Z0-9]", "", value.upper())
 
 
-def fetch(url):
-    request = Request(url, headers={"User-Agent": "SereneCreationsTenderHub/1.0 (public tender index)"})
+def fetch(url, data=None):
+    headers = {"User-Agent": "SereneCreationsTenderHub/1.0 (public tender index)", "Accept": "*/*"}
+    if data is not None:
+        headers["Content-Type"] = "application/json"
+    request = Request(url, data=data, headers=headers)
     for attempt in range(3):
         try:
             with urlopen(request, timeout=22) as response:
@@ -400,6 +414,112 @@ def unabsec_rows(html, now, digest=pdf_digest):
     return rows
 
 
+def regional_notice(source, country, title, reference, buyer, category, closes, posted, url, now):
+    if not all(isinstance(value, str) and value.strip()
+               for value in (title, reference, buyer, category, closes, posted)):
+        return None
+    try:
+        published = date.fromisoformat(posted[:10])
+        if published > now.astimezone(EAT).date():
+            return None
+        if len(closes) == 10:
+            deadline = date.fromisoformat(closes).isoformat()
+        else:
+            deadline = datetime.fromisoformat(closes)
+            if deadline.tzinfo is None:
+                deadline = deadline.replace(tzinfo=EAT)
+            deadline = deadline.astimezone(EAT).isoformat()
+    except ValueError:
+        return None
+    row = notice(source, title, reference, buyer, category, deadline, published.isoformat(), url)
+    row.update(country=country, location=country, region=country)
+    return row
+
+
+def kenya_rows(read, now):
+    methods = {"Open Tender", "Open International Tender", "Expression of Interest",
+               "Request for Proposals", "Prequalification", "Framework Agreements"}
+    for page in range(1, 21):
+        query = urlencode({"perpage": 100, "page": page, "sortby": "published_at", "order": "desc"})
+        result = json.loads(read(KENYA_ACTIVE + "?" + query))
+        if not isinstance(result.get("data"), list) or result["current_page"] != page:
+            raise ValueError("Unexpected Kenya active-tenders response")
+        for item in result["data"]:
+            identifier = item.get("id")
+            method = (item.get("procurement_method") or {}).get("title")
+            if (not isinstance(identifier, int) or method not in methods
+                    or item.get("status_id") != 1 or item.get("published") != 1
+                    or item.get("terminated") or item.get("is_agpo") or item.get("is_reservation")
+                    or item.get("agpo_group_id")):
+                continue
+            category = (item.get("procurement_category") or {}).get("title") or ""
+            row = regional_notice(
+                "Kenya PPIP", "Kenya", item.get("title"), item.get("tender_ref"),
+                (item.get("pe") or {}).get("name"),
+                REGIONAL_CATEGORIES.get(category.lower().replace("-", " "), "Procurement"),
+                item.get("close_at"), item.get("published_at"), KENYA_TENDERS + str(identifier), now,
+            )
+            if row:
+                yield row
+        if page >= result["last_page"]:
+            return
+    raise ValueError("Kenya active-tenders page limit reached")
+
+
+TANZANIA_QUERY = """
+query getPublishedEntityViewData($input: DataRequestInputInput, $withMetaData: Boolean) {
+  items: getPublishedEntityViewData(input: $input, withMetaData: $withMetaData) {
+    currentPage hasNext
+    rows: data {
+      descriptionOfTheProcurement entityNumber entityStatus entitySubCategoryAcronym
+      entityType invitationDate procurementCategoryName procuringEntityName
+      submissionOrOpeningDate
+    }
+  }
+}
+"""
+
+
+def tanzania_rows(read, now):
+    for page in range(1, 21):
+        variables = {
+            "input": {
+                "fields": [{"fieldName": "invitationDate", "orderDirection": "DESC"}],
+                "page": page, "pageSize": 100,
+                "mustHaveFilters": [{"fieldName": "entityStatus", "operation": "IN", "inValues": ["PUBLISHED"]}],
+            },
+            "withMetaData": False,
+        }
+        request = json.dumps({"operationName": "getPublishedEntityViewData",
+                              "query": TANZANIA_QUERY, "variables": variables}).encode("utf-8")
+        response = json.loads(read(TANZANIA_API, request))
+        if response.get("errors"):
+            raise ValueError("Tanzania NeST returned a query error")
+        result = response["data"]["items"]
+        if result["currentPage"] != page or not isinstance(result.get("rows"), list):
+            raise ValueError("Unexpected Tanzania published-tenders response")
+        for item in result["rows"]:
+            kind = item.get("entityType")
+            subcategory = item.get("entitySubCategoryAcronym") or ""
+            if item.get("entityStatus") != "PUBLISHED" or (
+                kind != "TENDER" and not (kind == "FRAMEWORK" and subcategory.endswith("_OPEN"))
+            ):
+                continue
+            reference = item.get("entityNumber") or ""
+            category = item.get("procurementCategoryName") or ""
+            row = regional_notice(
+                "Tanzania NeST", "Tanzania", item.get("descriptionOfTheProcurement"), reference,
+                item.get("procuringEntityName"), REGIONAL_CATEGORIES.get(category.lower(), "Procurement"),
+                item.get("submissionOrOpeningDate"), item.get("invitationDate"),
+                TANZANIA_TENDERS + "?" + urlencode({"reference": reference}), now,
+            )
+            if row:
+                yield row
+        if not result["hasNext"]:
+            return
+    raise ValueError("Tanzania published-tenders page limit reached")
+
+
 def wb_rows(read, today):
     offset = 0
     while True:
@@ -432,6 +552,8 @@ def refresh(previous, now, read=fetch):
         "UNIDO": lambda: parse_unido(read(UNIDO)),
         "Welthungerhilfe Uganda": lambda: whh_rows(read, now),
         "UNABSEC tender bulletin": lambda: unabsec_rows(read(UNABSEC), now),
+        "Kenya PPIP": lambda: kenya_rows(read, now),
+        "Tanzania NeST": lambda: tanzania_rows(read, now),
     }
     metadata = {}
     records = []
@@ -458,7 +580,9 @@ def refresh(previous, now, read=fetch):
     if not successful:
         raise RuntimeError("All sources failed; keep the last published snapshot")
     records.sort(key=lambda row: (row["publishedDate"], row["closingDate"], row["reference"]), reverse=True)
-    return {"schema": 1, "generatedAt": stamp, "sources": metadata, "records": records}
+    unique_open = len({reference_key(row["reference"]) for row in records})
+    return {"schema": 1, "generatedAt": stamp, "sources": metadata,
+            "coverage": {"target": OPEN_NOTICE_TARGET, "uniqueOpen": unique_open}, "records": records}
 
 
 def main():
@@ -472,6 +596,12 @@ def main():
     staging.write_text(json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     staging.replace(args.output)
     print(json.dumps(snapshot["sources"], indent=2))
+    coverage = snapshot["coverage"]
+    if summary := os.environ.get("GITHUB_STEP_SUMMARY"):
+        with Path(summary).open("a", encoding="utf-8") as output:
+            print(f"Open tender references: **{coverage['uniqueOpen']}** / target {coverage['target']}", file=output)
+    if coverage["uniqueOpen"] < coverage["target"]:
+        print(f"::warning::Only {coverage['uniqueOpen']} open tender references were available from the current sources")
 
 
 if __name__ == "__main__":
