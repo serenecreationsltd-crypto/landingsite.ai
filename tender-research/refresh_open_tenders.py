@@ -2,6 +2,7 @@
 """Refresh the Serene Tender Hub's Uganda open-notice snapshot."""
 
 import argparse
+import hashlib
 import json
 import re
 import time
@@ -22,6 +23,7 @@ CENTRAL_EUROPE = {"CET": timezone(timedelta(hours=1)), "CEST": timezone(timedelt
 EGP = "https://egpuganda.go.ug/bid-notices"
 GOAL = "https://www.goalglobal.org/tenders/"
 UNDP = "https://procurement-notices.undp.org/"
+UNABSEC = "https://www.unabsec.co.ug/opportunities/tenders"
 UNIDO = "https://www.unido.org/get-involved/procurement/procurement-opportunities"
 WB = "https://search.worldbank.org/api/v2/procnotices"
 WHH = "https://www.welthungerhilfe.org/tenders/"
@@ -346,6 +348,58 @@ def whh_rows(read, now):
     return rows
 
 
+def pdf_digest(url):
+    request = Request(url, headers={"User-Agent": "SereneCreationsTenderHub/1.0 (public tender index)"})
+    try:
+        with urlopen(request, timeout=20) as response:
+            first = response.read(1024)
+            if b"%PDF-" not in first:
+                raise ValueError("Buyer notice is unavailable as a PDF")
+            checksum = hashlib.sha256(first)
+            for chunk in iter(lambda: response.read(65536), b""):
+                checksum.update(chunk)
+            return checksum.hexdigest()
+    except HTTPError as error:
+        if error.code in (404, 410):
+            return ""
+        raise
+
+
+def unabsec_rows(html, now, digest=pdf_digest):
+    """Read reviewed lots only while the buyer's PDF and bulletin deadline agree."""
+    page = BeautifulSoup(html, "html.parser")
+    links = page.select('a[href*="/storage/tenders/documents/"]')
+    if not links:
+        raise ValueError("No UNABSEC tender documents found")
+    listings = {urljoin(UNABSEC, link["href"]): link.parent for link in links}
+    catalog = Path(__file__).with_name("unabsec-notices.json")
+    rows = []
+    for doc in json.loads(catalog.read_text(encoding="utf-8")):
+        url = doc["url"]
+        card = listings.get(url)
+        if card is None or deadline_instant(doc["deadline"]) <= now:
+            continue
+        dates = {}
+        for field in card.select("p"):
+            label, _, value = compact(field.get_text(" ")).partition(":")
+            if label in {"Date of Posting", "Closing Date"}:
+                dates[label] = goal_date(value)
+        buyer = card.select_one("span")
+        if not buyer or compact(buyer.get_text(" ")) != doc["buyer"]:
+            continue
+        if not dates.get("Date of Posting") or dates.get("Closing Date") != doc["deadline"][:10]:
+            continue
+        if digest(url) != doc["sha256"]:
+            continue
+        for item in doc["items"]:
+            row = notice("UNABSEC tender bulletin", item["title"], item["reference"], doc["buyer"],
+                         item["category"], doc["deadline"], dates["Date of Posting"], url)
+            row["location"] = item.get("location", doc["location"])
+            row["region"] = item.get("region", doc["region"])
+            rows.append(row)
+    return rows
+
+
 def wb_rows(read, today):
     offset = 0
     while True:
@@ -377,6 +431,7 @@ def refresh(previous, now, read=fetch):
         "UNDP Procurement Notices": lambda: parse_undp(read(UNDP)),
         "UNIDO": lambda: parse_unido(read(UNIDO)),
         "Welthungerhilfe Uganda": lambda: whh_rows(read, now),
+        "UNABSEC tender bulletin": lambda: unabsec_rows(read(UNABSEC), now),
     }
     metadata = {}
     records = []

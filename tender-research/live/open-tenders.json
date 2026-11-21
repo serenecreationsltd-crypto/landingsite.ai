@@ -1,36 +1,41 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-21T04:56:28+00:00",
+  "generatedAt": "2026-11-21T08:02:07+00:00",
   "sources": {
     "Uganda eGP": {
-      "checkedAt": "2026-11-21T04:56:28+00:00",
+      "checkedAt": "2026-11-21T08:02:07+00:00",
       "state": "ok",
       "openRecords": 49
     },
     "World Bank": {
-      "checkedAt": "2026-11-21T04:56:28+00:00",
+      "checkedAt": "2026-11-21T08:02:07+00:00",
       "state": "ok",
       "openRecords": 8
     },
     "GOAL Uganda": {
-      "checkedAt": "2026-11-21T04:56:28+00:00",
+      "checkedAt": "2026-11-21T08:02:07+00:00",
       "state": "ok",
       "openRecords": 2
     },
     "UNDP Procurement Notices": {
-      "checkedAt": "2026-11-21T04:56:28+00:00",
+      "checkedAt": "2026-11-21T08:02:07+00:00",
       "state": "ok",
       "openRecords": 12
     },
     "UNIDO": {
-      "checkedAt": "2026-11-21T04:50:06+00:00",
-      "state": "cached",
+      "checkedAt": "2026-11-21T08:02:07+00:00",
+      "state": "ok",
       "openRecords": 1
     },
     "Welthungerhilfe Uganda": {
-      "checkedAt": "2026-11-21T04:56:28+00:00",
+      "checkedAt": "2026-11-21T08:02:07+00:00",
       "state": "ok",
       "openRecords": 2
+    },
+    "UNABSEC tender bulletin": {
+      "checkedAt": "2026-11-21T05:06:59+00:00",
+      "state": "cached",
+      "openRecords": 42
     }
   },
   "records": [
@@ -46,7 +51,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51923",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -60,7 +65,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/427579196_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -74,7 +79,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51912",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -88,7 +93,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426641158_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -102,7 +107,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/427141580_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -116,7 +121,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426789056_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -130,7 +135,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426333206_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -144,7 +149,133 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426187334_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for everyday consumables",
+      "reference": "ZPEB-UGANDA-27009",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Supplies",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for office equipment and printing supplies",
+      "reference": "ZPEB-UGANDA-27008",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Supplies",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for food, beverages and catering",
+      "reference": "ZPEB-UGANDA-27007",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Supplies",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for security, CCTV, ICT and telecommunications",
+      "reference": "ZPEB-UGANDA-27006",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Non-consultancy services",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for legal and tax advisory services",
+      "reference": "ZPEB-UGANDA-27005",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Consultancy",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for industrial materials, spares and PPE",
+      "reference": "ZPEB-UGANDA-27004",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Supplies",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for travel and visa support",
+      "reference": "ZPEB-UGANDA-27003",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Non-consultancy services",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for customs clearance, freight and handling",
+      "reference": "ZPEB-UGANDA-27002",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Non-consultancy services",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Tilenga supplier EOI for vehicle and generator services",
+      "reference": "ZPEB-UGANDA-27001",
+      "procuringEntity": "ZPEB Uganda Co. Limited",
+      "category": "Non-consultancy services",
+      "location": "Tilenga project",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-10T17:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -158,7 +289,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51818",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -172,7 +303,21 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Sebei College Tegeres prequalification for 2027 supplies, works and services",
+      "reference": "SECOTE/SUP/WRKS/001/2027",
+      "procuringEntity": "Sebei College Tegeres",
+      "category": "Prequalification",
+      "location": "Kapchorwa",
+      "region": "Eastern Uganda",
+      "closingDate": "2026-11-30T14:00:00+03:00",
+      "publishedDate": "2026-11-17",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/StqaPJmkgDkDVajc7XWMomG16z8stWRbztL2wns4.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -186,7 +331,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51821",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -200,7 +345,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425846966_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Welthungerhilfe Uganda",
@@ -214,7 +359,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463259/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Welthungerhilfe Uganda",
@@ -228,7 +373,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463254/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -242,7 +387,7 @@
       "publishedDate": "2026-11-14",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425759848_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -256,7 +401,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425306024_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -270,7 +415,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425297920_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -284,7 +429,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425457974_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -298,7 +443,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425640314_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -312,7 +457,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425565352_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -326,7 +471,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425741614_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -340,7 +485,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425648418_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -354,7 +499,105 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425713250_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Event management for the wildlife college",
+      "reference": "UWRTC/SRVCS/26-27/00001",
+      "procuringEntity": "Uganda Wildlife Research and Training College",
+      "category": "Non-consultancy services",
+      "location": "Kasese",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-07T12:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "IT equipment and accessories for the wildlife college",
+      "reference": "UWRTC/SPLS/26-27/00012",
+      "procuringEntity": "Uganda Wildlife Research and Training College",
+      "category": "Supplies",
+      "location": "Kasese",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-07T12:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Production and supply of promotional materials for the wildlife college",
+      "reference": "UWRTC/SPLS/26-27/00011",
+      "procuringEntity": "Uganda Wildlife Research and Training College",
+      "category": "Supplies",
+      "location": "Kasese",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-07T12:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Electrical, plumbing and water management materials and repairs",
+      "reference": "UWRTC/SPLS/26-27/00010",
+      "procuringEntity": "Uganda Wildlife Research and Training College",
+      "category": "Supplies",
+      "location": "Kasese",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-07T12:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Stationery for the wildlife college",
+      "reference": "UWRTC/SPLS/26-27/00009",
+      "procuringEntity": "Uganda Wildlife Research and Training College",
+      "category": "Supplies",
+      "location": "Kasese",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-07T12:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Pharmaceutical supplies for the wildlife college",
+      "reference": "UWRTC/SPLS/26-27/00008",
+      "procuringEntity": "Uganda Wildlife Research and Training College",
+      "category": "Supplies",
+      "location": "Kasese",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-07T12:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Maintenance of air conditioning and firefighting equipment",
+      "reference": "UWRTC/NCONS/26-27/00003",
+      "procuringEntity": "Uganda Wildlife Research and Training College",
+      "category": "Non-consultancy services",
+      "location": "Kasese",
+      "region": "Western Uganda",
+      "closingDate": "2026-12-07T12:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -368,7 +611,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425539014_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -382,7 +625,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424949448_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -396,7 +639,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424951474_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "GOAL Uganda",
@@ -410,7 +653,287 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-mo05qxgunsp9-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for crop protection products",
+      "reference": "AFI/Supls/27-29/0009",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for agricultural and forestry planting materials",
+      "reference": "AFI/Supls/27-29/0008",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for agricultural tools and garden equipment",
+      "reference": "AFI/Supls/27-29/0007",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for first aid and medical supplies",
+      "reference": "AFI/Supls/27-29/0006",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for PPE and occupational safety supplies",
+      "reference": "AFI/Supls/27-29/0005",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for cleaning and hygiene supplies",
+      "reference": "AFI/Supls/27-29/0004",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for vehicle and motorcycle tyres",
+      "reference": "AFI/Supls/27-29/0003",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for computers, printers and accessories",
+      "reference": "AFI/Supls/27-29/0002",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for office furniture",
+      "reference": "AFI/Supls/27-29/0001",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for catering",
+      "reference": "AFI/Srvcs/27-29/0002",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods prequalification for branding and print production",
+      "reference": "AFI/Srvcs/27-29/0001",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for drinking water and refreshments",
+      "reference": "AFI/SUPLS/27-29/003",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for fuel",
+      "reference": "AFI/SUPLS/27-29/002",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for office stationery",
+      "reference": "AFI/SUPLS/27-29/001",
+      "procuringEntity": "Andre Foods International",
+      "category": "Supplies",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for secretarial, binding and printing services",
+      "reference": "AFI/SRVCS/27-29/009",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for printer maintenance and consumables",
+      "reference": "AFI/SRVCS/27-29/008",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for vehicle and motorcycle repairs and spare parts",
+      "reference": "AFI/SRVCS/27-29/007",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for generator servicing, repairs and parts",
+      "reference": "AFI/SRVCS/27-29/006",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for weighing scale calibration and servicing",
+      "reference": "AFI/SRVCS/27-29/005",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Andre Foods framework for vehicle hire",
+      "reference": "AFI/SRVCS/27-29/004",
+      "procuringEntity": "Andre Foods International",
+      "category": "Non-consultancy services",
+      "location": "Multiple districts in Uganda",
+      "region": "Uganda",
+      "closingDate": "2026-11-25T09:30:00+03:00",
+      "publishedDate": "2026-11-12",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -424,7 +947,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424286946_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -438,7 +961,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424139048_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -452,7 +975,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424284920_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -466,7 +989,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51666",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -480,7 +1003,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51665",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -494,7 +1017,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51636",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -508,7 +1031,7 @@
       "publishedDate": "2026-11-10",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423417792_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -522,7 +1045,7 @@
       "publishedDate": "2026-11-10",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423559612_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -536,7 +1059,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423138204_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -550,7 +1073,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422963968_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -564,7 +1087,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480356",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -578,7 +1101,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479939",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -592,7 +1115,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479940",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -606,7 +1129,21 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479942",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Periodic maintenance of the 15.31 km Bamusuuta–Kitabona road",
+      "reference": "Kyan875/works/2023-2024/0019",
+      "procuringEntity": "Kyankwanzi District Local Government",
+      "category": "Works",
+      "location": "Kyankwanzi",
+      "region": "Central Uganda",
+      "closingDate": "2026-11-30T11:00:00+03:00",
+      "publishedDate": "2026-11-09",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/6lJmB8WJ933xWb5e95Vp4k28DVGMCoMbUQjdkaCr.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -620,7 +1157,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51554",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -634,7 +1171,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423219244_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -648,7 +1185,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51548",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -662,7 +1199,21 @@
       "publishedDate": "2026-11-07",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422317674_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Teso College Aloet supplier prequalification for goods, services and works, 2027–2028",
+      "reference": "TCA/PR/01/2027/2028",
+      "procuringEntity": "Teso College Aloet",
+      "category": "Prequalification",
+      "location": "Soroti",
+      "region": "Eastern Uganda",
+      "closingDate": "2026-12-04T12:00:00+03:00",
+      "publishedDate": "2026-11-06",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/aW81Vay6OolUZtytj6ZqzrWuSP0biTeOomRWsJrk.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
       "source": "UNIDO",
@@ -676,7 +1227,7 @@
       "publishedDate": "2026-11-06",
       "bidDocumentsUrl": "https://www.unido.org/get-involved/procurement/procurement-opportunities",
       "status": "active",
-      "checkedAt": "2026-11-21T04:50:06+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -690,7 +1241,7 @@
       "publishedDate": "2026-11-06",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422149516_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "GOAL Uganda",
@@ -704,7 +1255,21 @@
       "publishedDate": "2026-11-05",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-byqs8f7wzd25-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Moyo District council hall and offices, phase II",
+      "reference": "MOYO896/WRKS/26-27/00023",
+      "procuringEntity": "Moyo District Local Government",
+      "category": "Works",
+      "location": "Moyo",
+      "region": "Northern Uganda",
+      "closingDate": "2026-12-01T12:30:00+03:00",
+      "publishedDate": "2026-11-03",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/S0H98q7mCr9PlF2JvYMJQ5vVQJJAsIoaJnha3ktm.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -718,7 +1283,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418634406_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -732,7 +1297,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/419461014_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -746,7 +1311,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418468274_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -760,7 +1325,7 @@
       "publishedDate": "2026-11-02",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/417927332_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -774,7 +1339,7 @@
       "publishedDate": "2026-11-02",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418302142_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -788,7 +1353,7 @@
       "publishedDate": "2026-10-29",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51264",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -802,7 +1367,7 @@
       "publishedDate": "2026-10-29",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/416977138_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -816,7 +1381,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415688602_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -830,7 +1395,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415637952_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -844,7 +1409,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415789902_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -858,7 +1423,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414594562_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -872,7 +1437,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413930034_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -886,7 +1451,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414592536_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -900,7 +1465,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414778928_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -914,7 +1479,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412951476_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -928,7 +1493,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413198648_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -942,7 +1507,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413044672_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -956,7 +1521,7 @@
       "publishedDate": "2026-10-20",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412207934_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -970,7 +1535,7 @@
       "publishedDate": "2026-10-20",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412244402_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -984,7 +1549,7 @@
       "publishedDate": "2026-10-19",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475833",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -998,7 +1563,7 @@
       "publishedDate": "2026-10-16",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475664",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1012,7 +1577,7 @@
       "publishedDate": "2026-10-15",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/410787708_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1026,7 +1591,7 @@
       "publishedDate": "2026-10-14",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/410380482_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -1040,7 +1605,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471365",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "World Bank",
@@ -1054,7 +1619,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474290",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -1068,7 +1633,35 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50604",
       "status": "active",
-      "checkedAt": "2026-11-21T04:56:28+00:00"
+      "checkedAt": "2026-11-21T08:02:07+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Construction for the Kakumiro water supply improvement project",
+      "reference": "NWSC-HQ/WRKS/26-27/181716",
+      "procuringEntity": "National Water and Sewerage Corporation",
+      "category": "Works",
+      "location": "Kakumiro",
+      "region": "Western Uganda",
+      "closingDate": "2026-11-27T10:30:00+03:00",
+      "publishedDate": "2026-10-08",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/04Woy6av3igymfkpnNdahkNYSxYz7IQuATmFJri3.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
+    },
+    {
+      "source": "UNABSEC tender bulletin",
+      "title": "Nakawuka water supply project in Wakiso District",
+      "reference": "NWSC-HQ/WRKS/26-27/181702",
+      "procuringEntity": "National Water and Sewerage Corporation",
+      "category": "Works",
+      "location": "Wakiso",
+      "region": "Central Uganda",
+      "closingDate": "2026-11-27T10:30:00+03:00",
+      "publishedDate": "2026-10-08",
+      "bidDocumentsUrl": "https://www.unabsec.co.ug/storage/tenders/documents/04Woy6av3igymfkpnNdahkNYSxYz7IQuATmFJri3.pdf",
+      "status": "active",
+      "checkedAt": "2026-11-21T05:06:59+00:00"
     }
   ]
 }

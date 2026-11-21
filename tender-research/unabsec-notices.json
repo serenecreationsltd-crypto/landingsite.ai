@@ -1,0 +1,296 @@
+[
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/S0H98q7mCr9PlF2JvYMJQ5vVQJJAsIoaJnha3ktm.pdf",
+    "sha256": "625afee7aa4e2f5f2ae7f3973c76fe96b4d85151c24f8c121239571186b2d8cc",
+    "buyer": "Moyo District Local Government",
+    "deadline": "2026-12-01T12:30:00+03:00",
+    "region": "Northern Uganda",
+    "location": "Moyo",
+    "items": [
+      {
+        "reference": "MOYO896/WRKS/26-27/00023",
+        "title": "Moyo District council hall and offices, phase II",
+        "category": "Works"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/6lJmB8WJ933xWb5e95Vp4k28DVGMCoMbUQjdkaCr.pdf",
+    "sha256": "64bd94f3904f3970e4aa04eb09e5865036c5d0bd67d932e729a399aba0c9699a",
+    "buyer": "Kyankwanzi District Local Government",
+    "deadline": "2026-11-30T11:00:00+03:00",
+    "region": "Central Uganda",
+    "location": "Kyankwanzi",
+    "items": [
+      {
+        "reference": "Kyan875/works/2023-2024/0019",
+        "title": "Periodic maintenance of the 15.31 km Bamusuuta–Kitabona road",
+        "category": "Works"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/04Woy6av3igymfkpnNdahkNYSxYz7IQuATmFJri3.pdf",
+    "sha256": "ac6bf0b73efd78fa8e5ad7fdf980b7cd997e3da0ab98cba2b1b921f760426274",
+    "buyer": "National Water and Sewerage Corporation",
+    "deadline": "2026-11-27T10:30:00+03:00",
+    "region": "Uganda",
+    "location": "Wakiso and Kakumiro (see project title)",
+    "items": [
+      {
+        "reference": "NWSC-HQ/WRKS/26-27/181702",
+        "title": "Nakawuka water supply project in Wakiso District",
+        "category": "Works",
+        "location": "Wakiso",
+        "region": "Central Uganda"
+      },
+      {
+        "reference": "NWSC-HQ/WRKS/26-27/181716",
+        "title": "Construction for the Kakumiro water supply improvement project",
+        "category": "Works",
+        "location": "Kakumiro",
+        "region": "Western Uganda"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/aW81Vay6OolUZtytj6ZqzrWuSP0biTeOomRWsJrk.pdf",
+    "sha256": "a5b9999fc9bebc0860d61321eb73ff1d80c12bd117ab898c3a9a07372ec088d6",
+    "buyer": "Teso College Aloet",
+    "deadline": "2026-12-04T12:00:00+03:00",
+    "region": "Eastern Uganda",
+    "location": "Soroti",
+    "items": [
+      {
+        "reference": "TCA/PR/01/2027/2028",
+        "title": "Teso College Aloet supplier prequalification for goods, services and works, 2027–2028",
+        "category": "Prequalification"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/StqaPJmkgDkDVajc7XWMomG16z8stWRbztL2wns4.pdf",
+    "sha256": "6248276349263613ff2b4ab321702aa2aec0e802f5ec50a5da2a211f2c00aeb6",
+    "buyer": "Sebei College Tegeres",
+    "deadline": "2026-11-30T14:00:00+03:00",
+    "region": "Eastern Uganda",
+    "location": "Kapchorwa",
+    "items": [
+      {
+        "reference": "SECOTE/SUP/WRKS/001/2027",
+        "title": "Sebei College Tegeres prequalification for 2027 supplies, works and services",
+        "category": "Prequalification"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
+    "sha256": "2e8b763284b5fcff24841ca1f410b3dd75a98724ef475954839c02dd13b26d12",
+    "buyer": "Uganda Wildlife Research and Training College",
+    "deadline": "2026-12-07T12:00:00+03:00",
+    "region": "Western Uganda",
+    "location": "Kasese",
+    "items": [
+      {
+        "reference": "UWRTC/SRVCS/26-27/00001",
+        "title": "Event management for the wildlife college",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "UWRTC/SPLS/26-27/00008",
+        "title": "Pharmaceutical supplies for the wildlife college",
+        "category": "Supplies"
+      },
+      {
+        "reference": "UWRTC/SPLS/26-27/00009",
+        "title": "Stationery for the wildlife college",
+        "category": "Supplies"
+      },
+      {
+        "reference": "UWRTC/SPLS/26-27/00010",
+        "title": "Electrical, plumbing and water management materials and repairs",
+        "category": "Supplies"
+      },
+      {
+        "reference": "UWRTC/SPLS/26-27/00011",
+        "title": "Production and supply of promotional materials for the wildlife college",
+        "category": "Supplies"
+      },
+      {
+        "reference": "UWRTC/NCONS/26-27/00003",
+        "title": "Maintenance of air conditioning and firefighting equipment",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "UWRTC/SPLS/26-27/00012",
+        "title": "IT equipment and accessories for the wildlife college",
+        "category": "Supplies"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
+    "sha256": "184b370d1a502b480b108a9b748556c9b4cf1d64d4794810b53bd2545507c58c",
+    "buyer": "ZPEB Uganda Co. Limited",
+    "deadline": "2026-12-10T17:00:00+03:00",
+    "region": "Western Uganda",
+    "location": "Tilenga project",
+    "items": [
+      {
+        "reference": "ZPEB-UGANDA-27001",
+        "title": "Tilenga supplier EOI for vehicle and generator services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27002",
+        "title": "Tilenga supplier EOI for customs clearance, freight and handling",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27003",
+        "title": "Tilenga supplier EOI for travel and visa support",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27004",
+        "title": "Tilenga supplier EOI for industrial materials, spares and PPE",
+        "category": "Supplies"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27005",
+        "title": "Tilenga supplier EOI for legal and tax advisory services",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27006",
+        "title": "Tilenga supplier EOI for security, CCTV, ICT and telecommunications",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27007",
+        "title": "Tilenga supplier EOI for food, beverages and catering",
+        "category": "Supplies"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27008",
+        "title": "Tilenga supplier EOI for office equipment and printing supplies",
+        "category": "Supplies"
+      },
+      {
+        "reference": "ZPEB-UGANDA-27009",
+        "title": "Tilenga supplier EOI for everyday consumables",
+        "category": "Supplies"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
+    "sha256": "6bebc6bcd040c1bb710edfd0e2e518b3e1e2d200d200663743dd1ace940cda80",
+    "buyer": "Andre Foods International",
+    "deadline": "2026-11-25T09:30:00+03:00",
+    "region": "Uganda",
+    "location": "Multiple districts in Uganda",
+    "items": [
+      {
+        "reference": "AFI/Srvcs/27-29/0001",
+        "title": "Andre Foods prequalification for branding and print production",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "AFI/Srvcs/27-29/0002",
+        "title": "Andre Foods prequalification for catering",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0001",
+        "title": "Andre Foods prequalification for office furniture",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0002",
+        "title": "Andre Foods prequalification for computers, printers and accessories",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0003",
+        "title": "Andre Foods prequalification for vehicle and motorcycle tyres",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0004",
+        "title": "Andre Foods prequalification for cleaning and hygiene supplies",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0005",
+        "title": "Andre Foods prequalification for PPE and occupational safety supplies",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0006",
+        "title": "Andre Foods prequalification for first aid and medical supplies",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0007",
+        "title": "Andre Foods prequalification for agricultural tools and garden equipment",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0008",
+        "title": "Andre Foods prequalification for agricultural and forestry planting materials",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/Supls/27-29/0009",
+        "title": "Andre Foods prequalification for crop protection products",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/SUPLS/27-29/001",
+        "title": "Andre Foods framework for office stationery",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/SUPLS/27-29/002",
+        "title": "Andre Foods framework for fuel",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/SUPLS/27-29/003",
+        "title": "Andre Foods framework for drinking water and refreshments",
+        "category": "Supplies"
+      },
+      {
+        "reference": "AFI/SRVCS/27-29/004",
+        "title": "Andre Foods framework for vehicle hire",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "AFI/SRVCS/27-29/005",
+        "title": "Andre Foods framework for weighing scale calibration and servicing",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "AFI/SRVCS/27-29/006",
+        "title": "Andre Foods framework for generator servicing, repairs and parts",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "AFI/SRVCS/27-29/007",
+        "title": "Andre Foods framework for vehicle and motorcycle repairs and spare parts",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "AFI/SRVCS/27-29/008",
+        "title": "Andre Foods framework for printer maintenance and consumables",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "AFI/SRVCS/27-29/009",
+        "title": "Andre Foods framework for secretarial, binding and printing services",
+        "category": "Non-consultancy services"
+      }
+    ]
+  }
+]
