@@ -12,7 +12,9 @@
         "title": "Moyo District council hall and offices, phase II",
         "category": "Works"
       }
-    ]
+    ],
+    "publishedDate": "2026-11-03",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
   },
   {
     "url": "https://www.unabsec.co.ug/storage/tenders/documents/6lJmB8WJ933xWb5e95Vp4k28DVGMCoMbUQjdkaCr.pdf",
@@ -27,7 +29,9 @@
         "title": "Periodic maintenance of the 15.31 km Bamusuuta–Kitabona road",
         "category": "Works"
       }
-    ]
+    ],
+    "publishedDate": "2026-11-09",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
   },
   {
     "url": "https://www.unabsec.co.ug/storage/tenders/documents/04Woy6av3igymfkpnNdahkNYSxYz7IQuATmFJri3.pdf",
@@ -51,7 +55,9 @@
         "location": "Kakumiro",
         "region": "Western Uganda"
       }
-    ]
+    ],
+    "publishedDate": "2026-10-08",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
   },
   {
     "url": "https://www.unabsec.co.ug/storage/tenders/documents/aW81Vay6OolUZtytj6ZqzrWuSP0biTeOomRWsJrk.pdf",
@@ -66,7 +72,9 @@
         "title": "Teso College Aloet supplier prequalification for goods, services and works, 2027–2028",
         "category": "Prequalification"
       }
-    ]
+    ],
+    "publishedDate": "2026-11-06",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
   },
   {
     "url": "https://www.unabsec.co.ug/storage/tenders/documents/StqaPJmkgDkDVajc7XWMomG16z8stWRbztL2wns4.pdf",
@@ -81,7 +89,9 @@
         "title": "Sebei College Tegeres prequalification for 2027 supplies, works and services",
         "category": "Prequalification"
       }
-    ]
+    ],
+    "publishedDate": "2026-11-17",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
   },
   {
     "url": "https://www.unabsec.co.ug/storage/tenders/documents/4tBLlGCeDpBIOSEVHyAGQSKOmx5ec8ecymPfYcWj.pdf",
@@ -126,7 +136,9 @@
         "title": "IT equipment and accessories for the wildlife college",
         "category": "Supplies"
       }
-    ]
+    ],
+    "publishedDate": "2026-11-13",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
   },
   {
     "url": "https://www.unabsec.co.ug/storage/tenders/documents/5K0BVplYY1NoN5SzWY34H5zDvB1wlvwh9TFw1gTl.pdf",
@@ -181,7 +193,9 @@
         "title": "Tilenga supplier EOI for everyday consumables",
         "category": "Supplies"
       }
-    ]
+    ],
+    "publishedDate": "2026-11-17",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
   },
   {
     "url": "https://www.unabsec.co.ug/storage/tenders/documents/nqm3z5SEPpout3aSXBqDunRaRAHYTQCgfHnGakCh.pdf",
@@ -291,6 +305,647 @@
         "title": "Andre Foods framework for secretarial, binding and printing services",
         "category": "Non-consultancy services"
       }
-    ]
+    ],
+    "publishedDate": "2026-11-12",
+    "reviewedAt": "2026-11-21T05:06:59+00:00"
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/cBK2NwT5da6y7QSBpo30Hu1OhHnWtSeyPohZYfnF.pdf",
+    "sha256": "a19edfc4e2edaab5316658fbd072daecd7e107f1cfdeb89e423a579585d71193",
+    "buyer": "Info-Code Consults Ltd",
+    "deadline": "2026-12-10",
+    "region": "Central Uganda",
+    "location": "Kampala",
+    "items": [
+      {
+        "reference": "INFO/SRVS/2027/01",
+        "title": "Prequalification for human resources consulting and recruitment",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "INFO/SRVS/2027/02",
+        "title": "Prequalification for business development",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/03",
+        "title": "Prequalification for IT services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/04",
+        "title": "Prequalification for decoration services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/05",
+        "title": "Prequalification for event management",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/06",
+        "title": "Prequalification for airtime and data services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/07",
+        "title": "Prequalification for travel agency services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/08",
+        "title": "Prequalification for monitoring and evaluation",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "INFO/SRVS/2027/09",
+        "title": "Prequalification for catering",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/10",
+        "title": "Prequalification for professional graphic design",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/11",
+        "title": "Prequalification for legal services",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "INFO/SRVS/2027/12",
+        "title": "Prequalification for audit services",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "INFO/SRVS/2027/13",
+        "title": "Prequalification for interior design",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "INFO/SRVS/2027/14",
+        "title": "Prequalification for air ticketing",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/15",
+        "title": "Prequalification for tourism services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/16",
+        "title": "Prequalification for clearing and forwarding",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/17",
+        "title": "Prequalification for cleaning and pest control",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/18",
+        "title": "Prequalification for business incubation hubs",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/19",
+        "title": "Prequalification for car and taxi hire",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/20",
+        "title": "Prequalification for vehicle maintenance and repair",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/21",
+        "title": "Prequalification for API services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/22",
+        "title": "Prequalification for marketing agency services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/23",
+        "title": "Prequalification for asset management",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/24",
+        "title": "Prequalification for still photography and videography",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/25",
+        "title": "Prequalification for media consultancy",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "INFO/SRVS/2027/26",
+        "title": "Prequalification for public relations",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SRVS/2027/27",
+        "title": "Prequalification for agriculture services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "INFO/SUPL/2027/28",
+        "title": "Prequalification for computers, printers and other IT equipment",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/29",
+        "title": "Prequalification for UPS units, inverters and stabilisers",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/30",
+        "title": "Prequalification for cooling equipment supply and maintenance",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/31",
+        "title": "Prequalification for office furniture",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/32",
+        "title": "Prequalification for fire system supply and maintenance",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/33",
+        "title": "Prequalification for fuel, oils and lubricants",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/34",
+        "title": "Prequalification for generator supply and maintenance",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/35",
+        "title": "Prequalification for new motor vehicles",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/36",
+        "title": "Prequalification for occupational health and safety equipment",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/37",
+        "title": "Prequalification for office stationery",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/38",
+        "title": "Prequalification for vehicle tyres and batteries",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/39",
+        "title": "Prequalification for metal fabrication and signage supply",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/40",
+        "title": "Prequalification for CCTV and access-control systems",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/41",
+        "title": "Prequalification for branded promotional items",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/42",
+        "title": "Prequalification for branded work clothing",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/43",
+        "title": "Prequalification for corporate gifts",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/SUPL/2027/44",
+        "title": "Prequalification for agricultural machinery",
+        "category": "Supplies"
+      },
+      {
+        "reference": "INFO/WKS/2027/44",
+        "title": "Prequalification for civil, mechanical and electrical works",
+        "category": "Works"
+      }
+    ],
+    "indexClosingDate": "2026-12-11",
+    "deadlineEvidenceUrl": "https://ug.linkedin.com/company/info-code-consults-ltd",
+    "publishedDate": "2026-11-12",
+    "reviewedAt": "2026-11-21T08:29:00+00:00"
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/uUMEIe3Sdtp2D59nwgsrbQQnwoEKXLjYqPt55vq6.pdf",
+    "sha256": "9ef0597c15bfacfb224530ed0c61fd500e80a24bebbec9274c54652a05c4b675",
+    "buyer": "St. Peter's SSS",
+    "deadline": "2026-11-27T10:30:00+03:00",
+    "region": "Central Uganda",
+    "location": "Nsambya, Kampala",
+    "items": [
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 01",
+        "title": "Prequalification for maize, millet and wheat flour",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 02",
+        "title": "Prequalification for beans",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 03",
+        "title": "Prequalification for rice",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 04",
+        "title": "Prequalification for sugar and salt",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 05",
+        "title": "Prequalification for cooking oil",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 06",
+        "title": "Prequalification for fresh staple foods",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 07",
+        "title": "Prequalification for beef and chicken",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 08",
+        "title": "Prequalification for fresh seasonings and produce",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 09",
+        "title": "Prequalification for dry seasonings and tea leaves",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 10",
+        "title": "Prequalification for tea accompaniments",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 11",
+        "title": "Prequalification for short-sleeved school shirts",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 12",
+        "title": "Prequalification for long-sleeved cream school shirts",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 13",
+        "title": "Prequalification for khaki trousers and skirts",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 14",
+        "title": "Prequalification for green Kijjana school uniforms",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 15",
+        "title": "Prequalification for school ties",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 16",
+        "title": "Prequalification for class T-shirts",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 17",
+        "title": "Prequalification for boarding wear",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 18",
+        "title": "Prequalification for sportswear",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 19",
+        "title": "Prequalification for firewood, gas and diesel",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 20",
+        "title": "Prequalification for medical supplies",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 21",
+        "title": "Prequalification for laboratory chemicals and equipment",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 22",
+        "title": "Prequalification for assorted stationery",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 23",
+        "title": "Prequalification for printed stationery",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 24",
+        "title": "Prequalification for sanitation and cleaning materials",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 25",
+        "title": "Prequalification for games and sports equipment",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 26",
+        "title": "Prequalification for kitchen utensils",
+        "category": "Supplies"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 27",
+        "title": "Prequalification for fumigation",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 28",
+        "title": "Prequalification for fire extinguishing services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 29",
+        "title": "Prequalification for motor vehicle maintenance",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 30",
+        "title": "Prequalification for office equipment repairs",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 31",
+        "title": "Prequalification for school generator servicing",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 32",
+        "title": "Prequalification for repairs to energy-saving stoves",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 33",
+        "title": "Prequalification for engraving",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 34",
+        "title": "Prequalification for event services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 35",
+        "title": "Prequalification for compound maintenance",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 36",
+        "title": "Prequalification for catering",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 37",
+        "title": "Prequalification for plumbing works",
+        "category": "Works"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 38",
+        "title": "Prequalification for biometric device installation",
+        "category": "Works"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 39",
+        "title": "Prequalification for carpentry works",
+        "category": "Works"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 40",
+        "title": "Prequalification for electrical works",
+        "category": "Works"
+      },
+      {
+        "reference": "SPENSA/PREQ/2026/0001 · Lot 41",
+        "title": "Prequalification for civil works",
+        "category": "Works"
+      }
+    ],
+    "publishedDate": "2026-11-09",
+    "reviewedAt": "2026-11-21T08:29:00+00:00"
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/8GbjqXn0eFAxpNcXE1C2ppfLkCNn5HZwbwClgw48.pdf",
+    "sha256": "e7bc528daed677d014233a4e33eee09c880858555682c754ea487a386d22d8c2",
+    "buyer": "Nation Media Group",
+    "deadline": "2026-12-07T16:30:00+03:00",
+    "region": "Central Uganda",
+    "location": "Namuwongo, Kampala",
+    "items": [
+      {
+        "reference": "NMG Uganda · Category A · Item 01",
+        "title": "Prequalification for Apple desktop computers and laptops",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 02",
+        "title": "Prequalification for generators",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 03",
+        "title": "Prequalification for weighing scale supply and maintenance",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 04",
+        "title": "Prequalification for broadcast and press equipment supply and maintenance",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 05",
+        "title": "Prequalification for press plates, chemicals, inks and blankets",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 06",
+        "title": "Prequalification for printing-press consumables and spares",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 07",
+        "title": "Prequalification for fuel and lubricants",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 08",
+        "title": "Prequalification for strapping machine supply and maintenance",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 09",
+        "title": "Prequalification for strapping rolls and double-sided tape",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 10",
+        "title": "Prequalification for camera and telegraphic equipment supply and maintenance",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category A · Item 11",
+        "title": "Prequalification for transmitters, antennas and parts",
+        "category": "Supplies"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 12",
+        "title": "Prequalification for studio set design and studio construction",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 13",
+        "title": "Prequalification for office furniture repairs",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 14",
+        "title": "Prequalification for HR consultancy, training, recruitment and counselling",
+        "category": "Consultancy"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 15",
+        "title": "Prequalification for digital training",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 16",
+        "title": "Prequalification for generator repair and maintenance",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 17",
+        "title": "Prequalification for forklift servicing and repairs",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 18",
+        "title": "Prequalification for fleet management systems",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 19",
+        "title": "Prequalification for videography, photographic equipment hire and DJ services",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category B · Item 20",
+        "title": "Prequalification for local and international TV programmes",
+        "category": "Non-consultancy services"
+      },
+      {
+        "reference": "NMG Uganda · Category C · Item 21",
+        "title": "Prequalification for construction, civil works and fabrication",
+        "category": "Works"
+      },
+      {
+        "reference": "NMG Uganda · Category C · Item 22",
+        "title": "Prequalification for plumbing works and materials",
+        "category": "Works"
+      }
+    ],
+    "publishedDate": "2026-11-17",
+    "reviewedAt": "2026-11-21T08:29:00+00:00"
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/nqpK88kVH22WRbyNQMHg882S9wseUhpDiOgNEvOl.pdf",
+    "sha256": "42b19c8ff659419a2555b2e624c4fb0b17b478b1bbc23a7af1684ca90bbe6baa",
+    "buyer": "Ministry of Education and Sports",
+    "deadline": "2026-12-14T11:00:00+03:00",
+    "region": "Uganda",
+    "location": "12 districts across Uganda",
+    "items": [
+      {
+        "reference": "MoES-USEEP/SUPLS/2026-27/00022",
+        "title": "Installation of incinerators at 35 secondary schools under USEEP",
+        "category": "Works"
+      }
+    ],
+    "publishedDate": "2026-11-16",
+    "reviewedAt": "2026-11-21T08:29:00+00:00"
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/kgB1BChg5L1rktX8iD2wdycCfmdStqmlTJ8lFOEs.pdf",
+    "sha256": "8be6536a45f640a77c6a47b50f3a02390090dbc5d1800c8848c6d7b03042625c",
+    "buyer": "Uganda Railway Corporation",
+    "deadline": "2026-11-27T11:00:00+03:00",
+    "region": "Central Uganda",
+    "location": "Kampala",
+    "items": [
+      {
+        "reference": "URC/SUPL/2026-27/00107",
+        "title": "Supply of railway timber sleepers under a two-year framework",
+        "category": "Supplies"
+      }
+    ],
+    "indexClosingDate": "2026-11-26",
+    "publishedDate": "2026-11-02",
+    "reviewedAt": "2026-11-21T08:29:00+00:00"
+  },
+  {
+    "url": "https://www.unabsec.co.ug/storage/tenders/documents/tgbcMUqCSXVMfdOtPsE3GwCULOJrI9Hd8UzF9WH3.pdf",
+    "sha256": "b5a2193f9dae0dc35d5e71b5e97a7fa215204e963e8e81f5e7f846e94ddee117",
+    "buyer": "United Nations High Commission for Refugees",
+    "deadline": "2026-11-27",
+    "region": "Uganda",
+    "location": "Lamwo, Kyangwali and Rwamwanja",
+    "items": [
+      {
+        "reference": "UNHCR/SRFP/3936",
+        "title": "Perimeter, guardhouse and other external works at UNHCR Lamwo office",
+        "category": "Works",
+        "location": "Lamwo",
+        "region": "Northern Uganda"
+      },
+      {
+        "reference": "UNHCR/SRFP/3951",
+        "title": "Rehabilitation of UNHCR field offices in Kyangwali and Rwamwanja",
+        "category": "Works",
+        "location": "Kyangwali and Rwamwanja",
+        "region": "Western Uganda"
+      }
+    ],
+    "publishedDate": "2026-11-12",
+    "reviewedAt": "2026-11-21T08:29:00+00:00"
   }
 ]

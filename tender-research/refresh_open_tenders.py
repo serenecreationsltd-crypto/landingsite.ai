@@ -29,6 +29,7 @@ TANZANIA_TENDERS = "https://nest.go.tz/tenders/published-tenders"
 TANZANIA_API = "https://nest.go.tz/gateway/nest-app/graphql"
 UNDP = "https://procurement-notices.undp.org/"
 UNABSEC = "https://www.unabsec.co.ug/opportunities/tenders"
+UNABSEC_SOURCE = "UNABSEC tender bulletin"
 UNIDO = "https://www.unido.org/get-involved/procurement/procurement-opportunities"
 WB = "https://search.worldbank.org/api/v2/procnotices"
 WHH = "https://www.welthungerhilfe.org/tenders/"
@@ -379,6 +380,19 @@ def pdf_digest(url):
         raise
 
 
+def unabsec_catalog():
+    return json.loads(Path(__file__).with_name("unabsec-notices.json").read_text(encoding="utf-8"))
+
+
+def bulletin_items(doc, published):
+    for item in doc["items"]:
+        row = notice(UNABSEC_SOURCE, item["title"], item["reference"], doc["buyer"],
+                     item["category"], doc["deadline"], published, doc["url"])
+        row["location"] = item.get("location", doc["location"])
+        row["region"] = item.get("region", doc["region"])
+        yield row
+
+
 def unabsec_rows(html, now, digest=pdf_digest):
     """Read reviewed lots only while the buyer's PDF and bulletin deadline agree."""
     page = BeautifulSoup(html, "html.parser")
@@ -386,9 +400,8 @@ def unabsec_rows(html, now, digest=pdf_digest):
     if not links:
         raise ValueError("No UNABSEC tender documents found")
     listings = {urljoin(UNABSEC, link["href"]): link.parent for link in links}
-    catalog = Path(__file__).with_name("unabsec-notices.json")
     rows = []
-    for doc in json.loads(catalog.read_text(encoding="utf-8")):
+    for doc in unabsec_catalog():
         url = doc["url"]
         card = listings.get(url)
         if card is None or deadline_instant(doc["deadline"]) <= now:
@@ -401,17 +414,27 @@ def unabsec_rows(html, now, digest=pdf_digest):
         buyer = card.select_one("span")
         if not buyer or compact(buyer.get_text(" ")) != doc["buyer"]:
             continue
-        if not dates.get("Date of Posting") or dates.get("Closing Date") != doc["deadline"][:10]:
+        if not dates.get("Date of Posting") or dates.get("Closing Date") != doc.get("indexClosingDate", doc["deadline"][:10]):
             continue
         if digest(url) != doc["sha256"]:
             continue
-        for item in doc["items"]:
-            row = notice("UNABSEC tender bulletin", item["title"], item["reference"], doc["buyer"],
-                         item["category"], doc["deadline"], dates["Date of Posting"], url)
-            row["location"] = item.get("location", doc["location"])
-            row["region"] = item.get("region", doc["region"])
-            rows.append(row)
+        rows.extend(bulletin_items(doc, dates["Date of Posting"]))
     return rows
+
+
+def reviewed_bulletin_rows(previous, now):
+    """Preserve reviewed buyer notices during outages, with their original review dates."""
+    previous_records = {reference_key(row["reference"]) for row in previous.get("records", [])
+                        if row.get("source") == UNABSEC_SOURCE}
+    previous_run = previous.get("generatedAt", "")
+    for doc in unabsec_catalog():
+        reviewed = doc["reviewedAt"]
+        if deadline_instant(reviewed) > now or deadline_instant(doc["deadline"]) <= now:
+            continue
+        for row in bulletin_items(doc, doc["publishedDate"]):
+            if reviewed <= previous_run and reference_key(row["reference"]) not in previous_records:
+                continue
+            yield {**row, "verification": "buyer-notice", "checkedAt": reviewed}
 
 
 def regional_notice(source, country, title, reference, buyer, category, closes, posted, url, now):
@@ -551,7 +574,7 @@ def refresh(previous, now, read=fetch):
         "UNDP Procurement Notices": lambda: parse_undp(read(UNDP)),
         "UNIDO": lambda: parse_unido(read(UNIDO)),
         "Welthungerhilfe Uganda": lambda: whh_rows(read, now),
-        "UNABSEC tender bulletin": lambda: unabsec_rows(read(UNABSEC), now),
+        UNABSEC_SOURCE: lambda: unabsec_rows(read(UNABSEC), now),
         "Kenya PPIP": lambda: kenya_rows(read, now),
         "Tanzania NeST": lambda: tanzania_rows(read, now),
     }
@@ -574,15 +597,21 @@ def refresh(previous, now, read=fetch):
                 fresh = last_checked and now - datetime.fromisoformat(last_checked) <= MAX_STALE
                 rows = [row for row in previous.get("records", []) if row.get("source") == name and eligible(row, now)] if fresh else []
                 state = "cached" if fresh else "unavailable"
+                if name == UNABSEC_SOURCE:
+                    rows = list(reviewed_bulletin_rows(previous, now))
+                    state = "reviewed" if rows else "unavailable"
+                    last_checked = max((row["checkedAt"] for row in rows), default=None)
             metadata[name] = {"checkedAt": last_checked, "state": state, "openRecords": len(rows)}
             for row in rows:
-                records.append({**row, "checkedAt": last_checked})
+                records.append({**row, "checkedAt": row["checkedAt"] if state == "reviewed" else last_checked})
     if not successful:
         raise RuntimeError("All sources failed; keep the last published snapshot")
     records.sort(key=lambda row: (row["publishedDate"], row["closingDate"], row["reference"]), reverse=True)
-    unique_open = len({reference_key(row["reference"]) for row in records})
+    unique_open = len({reference_key(row["reference"]) for row in records
+                       if row.get("country", "Uganda") == "Uganda"})
     return {"schema": 1, "generatedAt": stamp, "sources": metadata,
-            "coverage": {"target": OPEN_NOTICE_TARGET, "uniqueOpen": unique_open}, "records": records}
+            "coverage": {"country": "Uganda", "target": OPEN_NOTICE_TARGET, "uniqueOpen": unique_open},
+            "records": records}
 
 
 def main():
@@ -599,9 +628,9 @@ def main():
     coverage = snapshot["coverage"]
     if summary := os.environ.get("GITHUB_STEP_SUMMARY"):
         with Path(summary).open("a", encoding="utf-8") as output:
-            print(f"Open tender references: **{coverage['uniqueOpen']}** / target {coverage['target']}", file=output)
+            print(f"Open Uganda tender references: **{coverage['uniqueOpen']}** / target {coverage['target']}", file=output)
     if coverage["uniqueOpen"] < coverage["target"]:
-        print(f"::warning::Only {coverage['uniqueOpen']} open tender references were available from the current sources")
+        print(f"::warning::Only {coverage['uniqueOpen']} open Uganda tender references were available from the current sources")
 
 
 if __name__ == "__main__":
