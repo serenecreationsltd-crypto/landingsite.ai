@@ -1,34 +1,34 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-21T08:02:07+00:00",
+  "generatedAt": "2026-11-21T08:05:04+00:00",
   "sources": {
     "Uganda eGP": {
-      "checkedAt": "2026-11-21T08:02:07+00:00",
+      "checkedAt": "2026-11-21T08:05:04+00:00",
       "state": "ok",
       "openRecords": 49
     },
     "World Bank": {
-      "checkedAt": "2026-11-21T08:02:07+00:00",
+      "checkedAt": "2026-11-21T08:05:04+00:00",
       "state": "ok",
       "openRecords": 8
     },
     "GOAL Uganda": {
-      "checkedAt": "2026-11-21T08:02:07+00:00",
+      "checkedAt": "2026-11-21T08:05:04+00:00",
       "state": "ok",
       "openRecords": 2
     },
     "UNDP Procurement Notices": {
       "checkedAt": "2026-11-21T08:02:07+00:00",
-      "state": "ok",
+      "state": "cached",
       "openRecords": 12
     },
     "UNIDO": {
       "checkedAt": "2026-11-21T08:02:07+00:00",
-      "state": "ok",
+      "state": "cached",
       "openRecords": 1
     },
     "Welthungerhilfe Uganda": {
-      "checkedAt": "2026-11-21T08:02:07+00:00",
+      "checkedAt": "2026-11-21T08:05:04+00:00",
       "state": "ok",
       "openRecords": 2
     },
@@ -65,7 +65,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/427579196_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -93,7 +93,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426641158_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -107,7 +107,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/427141580_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -121,7 +121,7 @@
       "publishedDate": "2026-11-18",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426789056_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -135,7 +135,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426333206_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -149,7 +149,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/426187334_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -345,7 +345,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425846966_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Welthungerhilfe Uganda",
@@ -359,7 +359,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463259/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Welthungerhilfe Uganda",
@@ -373,7 +373,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463254/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -387,7 +387,7 @@
       "publishedDate": "2026-11-14",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425759848_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -401,7 +401,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425306024_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -415,7 +415,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425297920_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -429,7 +429,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425457974_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -443,7 +443,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425640314_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -457,7 +457,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425565352_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -471,7 +471,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425741614_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -485,7 +485,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425648418_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -499,7 +499,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425713250_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -611,7 +611,7 @@
       "publishedDate": "2026-11-13",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/425539014_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -625,7 +625,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424949448_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -639,7 +639,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424951474_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "GOAL Uganda",
@@ -653,7 +653,7 @@
       "publishedDate": "2026-11-12",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-mo05qxgunsp9-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -947,7 +947,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424286946_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -961,7 +961,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424139048_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -975,7 +975,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/424284920_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -1031,7 +1031,7 @@
       "publishedDate": "2026-11-10",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423417792_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1045,7 +1045,7 @@
       "publishedDate": "2026-11-10",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423559612_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1059,7 +1059,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423138204_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1073,7 +1073,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422963968_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1087,7 +1087,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480356",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1101,7 +1101,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479939",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1115,7 +1115,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479940",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1129,7 +1129,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479942",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -1171,7 +1171,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/423219244_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -1199,7 +1199,7 @@
       "publishedDate": "2026-11-07",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422317674_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -1241,7 +1241,7 @@
       "publishedDate": "2026-11-06",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/422149516_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "GOAL Uganda",
@@ -1255,7 +1255,7 @@
       "publishedDate": "2026-11-05",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-byqs8f7wzd25-content-0",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -1283,7 +1283,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418634406_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1297,7 +1297,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/419461014_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1311,7 +1311,7 @@
       "publishedDate": "2026-11-03",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418468274_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1325,7 +1325,7 @@
       "publishedDate": "2026-11-02",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/417927332_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1339,7 +1339,7 @@
       "publishedDate": "2026-11-02",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/418302142_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -1367,7 +1367,7 @@
       "publishedDate": "2026-10-29",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/416977138_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1381,7 +1381,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415688602_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1395,7 +1395,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415637952_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1409,7 +1409,7 @@
       "publishedDate": "2026-10-27",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/415789902_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1423,7 +1423,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414594562_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1437,7 +1437,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413930034_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1451,7 +1451,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414592536_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1465,7 +1465,7 @@
       "publishedDate": "2026-10-23",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/414778928_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1479,7 +1479,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412951476_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1493,7 +1493,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413198648_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1507,7 +1507,7 @@
       "publishedDate": "2026-10-21",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/413044672_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1521,7 +1521,7 @@
       "publishedDate": "2026-10-20",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412207934_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1535,7 +1535,7 @@
       "publishedDate": "2026-10-20",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/412244402_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1549,7 +1549,7 @@
       "publishedDate": "2026-10-19",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475833",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1563,7 +1563,7 @@
       "publishedDate": "2026-10-16",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475664",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1577,7 +1577,7 @@
       "publishedDate": "2026-10-15",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/410787708_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "Uganda eGP",
@@ -1591,7 +1591,7 @@
       "publishedDate": "2026-10-14",
       "bidDocumentsUrl": "https://egpuganda.go.ug/index/410380482_egp",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1605,7 +1605,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471365",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "World Bank",
@@ -1619,7 +1619,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474290",
       "status": "active",
-      "checkedAt": "2026-11-21T08:02:07+00:00"
+      "checkedAt": "2026-11-21T08:05:04+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
