@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-27T16:34:29+00:00",
+  "generatedAt": "2026-11-28T01:26:19+00:00",
   "sources": {
     "Uganda eGP": {
-      "checkedAt": "2026-11-27T16:34:29+00:00",
+      "checkedAt": "2026-11-28T01:26:19+00:00",
       "state": "ok",
       "openRecords": 0
     },
     "World Bank": {
-      "checkedAt": "2026-11-27T16:34:29+00:00",
+      "checkedAt": "2026-11-28T01:26:19+00:00",
       "state": "ok",
       "openRecords": 12
     },
     "GOAL Uganda": {
-      "checkedAt": "2026-11-27T16:34:29+00:00",
+      "checkedAt": "2026-11-28T01:26:19+00:00",
       "state": "ok",
       "openRecords": 1
     },
     "UNDP Procurement Notices": {
-      "checkedAt": "2026-11-27T16:34:29+00:00",
+      "checkedAt": "2026-11-28T01:26:19+00:00",
       "state": "ok",
       "openRecords": 9
     },
@@ -28,7 +28,7 @@
       "openRecords": 0
     },
     "Welthungerhilfe Uganda": {
-      "checkedAt": "2026-11-27T16:34:29+00:00",
+      "checkedAt": "2026-11-28T01:26:19+00:00",
       "state": "ok",
       "openRecords": 2
     },
@@ -38,14 +38,14 @@
       "openRecords": 88
     },
     "Kenya PPIP": {
-      "checkedAt": "2026-11-27T16:34:29+00:00",
+      "checkedAt": "2026-11-28T01:26:19+00:00",
       "state": "ok",
-      "openRecords": 309
+      "openRecords": 315
     },
     "Tanzania NeST": {
-      "checkedAt": "2026-11-27T16:34:29+00:00",
+      "checkedAt": "2026-11-28T01:26:19+00:00",
       "state": "ok",
-      "openRecords": 108
+      "openRecords": 140
     }
   },
   "coverage": {
@@ -67,7 +67,67 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315152",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Kenya PPIP",
+      "title": "PROVISION OF MEDICAL EQUIPMENT TO COUNTY HEALTH FACILITIES THROUGH A LEASE–TO–OWN ARRANGEMENT",
+      "reference": "CGM/PRO/DOHS/T/010/2026– 2027",
+      "procuringEntity": "Mombasa County Government",
+      "category": "Non-consultancy services",
+      "location": "Kenya",
+      "region": "Kenya",
+      "closingDate": "2026-12-18T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://tenders.go.ke/tenders/315291",
+      "status": "active",
+      "country": "Kenya",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Kenya PPIP",
+      "title": "PROVISION OF MEDICAL EQUIPMENT TO COUNTY HEALTH FACILITIES ON REAGENT – BASED PLACEMENT MODEL",
+      "reference": "CGM/PRO/DOHS/T/009/2026 – 2027",
+      "procuringEntity": "Mombasa County Government",
+      "category": "Non-consultancy services",
+      "location": "Kenya",
+      "region": "Kenya",
+      "closingDate": "2026-12-18T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://tenders.go.ke/tenders/315292",
+      "status": "active",
+      "country": "Kenya",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Consultancy Services for Engagement of Individual Consultant for Monitoring of Cultural Heritage Management Under the Tanzania Transport Integrated Project (Tantip) at Mikindani Mtwara – Mingoyo – Masasi Road 201 Km Under the Tanzania Transport Integrated Project (TanTIP) Sub Project",
+      "reference": "TR36/CCP/P165660/2026/2027/C/19",
+      "procuringEntity": "TANZANIA NATIONAL ROADS AGENCY",
+      "category": "Consultancy",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-15T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2FCCP%2FP165660%2F2026%2F2027%2FC%2F19",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "CONTRUCTION OF OFFICE BUILDING AT MAHENGE RESIDENT MINES OFFICE",
+      "reference": "X10/2026/2027/W/18",
+      "procuringEntity": "MINING COMMISSION",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-14T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X10%2F2026%2F2027%2FW%2F18",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -82,7 +142,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=84R5%2F2026%2F2027%2FW%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -97,7 +157,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR73%2F2026%2F2027%2FG%2F33",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -112,7 +172,37 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315260",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Provision of Consultancy Services for Structural Condition Assessment of Bank of Tanzania Office Building at Mbeya",
+      "reference": "TR152/2026/2027/C/06",
+      "procuringEntity": "BANK OF TANZANIA",
+      "category": "Consultancy",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-11T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FC%2F06",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "CONSTRUCTION OF OFFICE BUILDING AT RUKWA RESIDENT MINES OFFICE",
+      "reference": "X10/2026/2027/W/06",
+      "procuringEntity": "MINING COMMISSION",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-10T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X10%2F2026%2F2027%2FW%2F06",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -127,7 +217,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315186",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -142,7 +232,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315219",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -157,7 +247,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315286",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -172,7 +262,22 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315285",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Kenya PPIP",
+      "title": "PROPOSED REMOVAL AND REPLACEMENT OF BROKEN CLAY TILES WITH IT 5 BOX PROFILES ON CLASSROOM BLOCK,ADMINISTRATION AND LABORATORY BLOCKS AT KAMITI SECONDARY SCHOOL IN ROYSAMBU CONSTITUENCY",
+      "reference": "RNGCDF/TN/006/2026/2027",
+      "procuringEntity": "ROYSAMBU NATIONAL GOVERNMENT CONSTITUENCIES DEVELOPMENT FUND",
+      "category": "Works",
+      "location": "Kenya",
+      "region": "Kenya",
+      "closingDate": "2026-12-10T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://tenders.go.ke/tenders/315293",
+      "status": "active",
+      "country": "Kenya",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -187,7 +292,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315283",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -202,7 +307,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315282",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -217,7 +322,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315281",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -232,7 +337,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315162",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -247,7 +352,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315161",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -262,7 +367,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315164",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -277,7 +382,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315151",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -292,7 +397,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR196%2F2026%2F2027%2FW%2F16",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -307,7 +412,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315150",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -322,7 +427,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315158",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -337,7 +442,37 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315153",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Provision of Consultancy services for Development of Plot No. 271 Chato Street",
+      "reference": "TR205/2025/2026/C/03",
+      "procuringEntity": "SUGAR BOARD OF TANZANIA",
+      "category": "Consultancy",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-07T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR205%2F2025%2F2026%2FC%2F03",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply of GYM Equipments for TRC staff fitness centre.",
+      "reference": "TR126/2026/2027/G/45",
+      "procuringEntity": "TANZANIA RAILWAYS CORPORATION",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-07T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR126%2F2026%2F2027%2FG%2F45",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -352,7 +487,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315148",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -367,7 +502,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315248",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -382,7 +517,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR261%2F2026%2F2027%2FG%2F68",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -397,7 +532,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR159%2F2026%2F2027%2FG%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -412,7 +547,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315129",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -427,7 +562,247 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315196",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Provision of Underground Mining Operations at East Zone Project",
+      "reference": "TR00/01/2026/2027/NC/03",
+      "procuringEntity": "STAMIGOLD COMPANY LIMITED",
+      "category": "Non-consultancy services",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T17:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR00%2F01%2F2026%2F2027%2FNC%2F03",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply of Dewatering Pump",
+      "reference": "TR00/01/2026/2027/G/121",
+      "procuringEntity": "STAMIGOLD COMPANY LIMITED",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T17:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR00%2F01%2F2026%2F2027%2FG%2F121",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply of water treatment chemicals",
+      "reference": "TR162/2026/2027/G/21",
+      "procuringEntity": "GEITA URBAN WATER SUPPLY AND SANITATION AUTHORITY",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:45:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR162%2F2026%2F2027%2FG%2F21",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "EXTENSION WATER SUPPLY SERVICES AT ILANGALE, NYAKASALUMA,BUREGE AND NYASHIMBA VILLAGE IIN MBOGWE DISTRICT",
+      "reference": "TR162/2026/2027/G/19",
+      "procuringEntity": "GEITA URBAN WATER SUPPLY AND SANITATION AUTHORITY",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:45:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR162%2F2026%2F2027%2FG%2F19",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Construction of play ground fence at Mzumbe University Mbeya Campus College",
+      "reference": "TR76/2026/2027/W/03",
+      "procuringEntity": "MZUMBE UNIVERSITY",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR76%2F2026%2F2027%2FW%2F03",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Partial Rehabilitation Works along Ditiwa (Mza/Simiyu Brd) - Simiyu/Mara Brd Paved TR (Economical - Corridor) Cha. 8+600-38+600",
+      "reference": "TR36/022/2026/2027/W/12",
+      "procuringEntity": "TANROADS - SIMIYU REGIONAL OFFICE",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F022%2F2026%2F2027%2FW%2F12",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Periodic Maintenance works along Lamadi - Bariadi (Resealing using Asphalt Concrete 20km Section)",
+      "reference": "TR36/022/2026/2027/W/11",
+      "procuringEntity": "TANROADS - SIMIYU REGIONAL OFFICE",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F022%2F2026%2F2027%2FW%2F11",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Periodic Maintenance works along Lamadi - Bariadi (Resealing using Asphalt Concrete 30km Section)",
+      "reference": "TR36/022/2026/2027/W/10",
+      "procuringEntity": "TANROADS - SIMIYU REGIONAL OFFICE",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F022%2F2026%2F2027%2FW%2F10",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "PROVISION OF TRANSPORTATION SERVICES, DE-SHELLING & RE-SHELLING OF MILL ROLLERS",
+      "reference": "TR191/001/2026/2027/NC/55",
+      "procuringEntity": "MKULAZI HOLDING COMPANY LIMITED",
+      "category": "Non-consultancy services",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR191%2F001%2F2026%2F2027%2FNC%2F55",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "CONSTRUSTION OF RESIDENTIAL HOUSE FOR HEADS OF DEPARTMENTS BLOCK (1)",
+      "reference": "86U2/2026/2027/NC/39",
+      "procuringEntity": "KOROGWE DISTRICT COUNCIL",
+      "category": "Non-consultancy services",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=86U2%2F2026%2F2027%2FNC%2F39",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "CONSTRUCTION OF RESIDENTIAL HOUSE FOR HEADS OF DEPARTMENT BLOCK (2)",
+      "reference": "86U2/2026/2027/NC/35",
+      "procuringEntity": "KOROGWE DISTRICT COUNCIL",
+      "category": "Non-consultancy services",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=86U2%2F2026%2F2027%2FNC%2F35",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Provision Of Solid Waste Collection, Disposal of Waste and Revenue Collection Services AT MBARALI DISTRICT COUNCIL",
+      "reference": "78J7/2026/2027/NC/64",
+      "procuringEntity": "MBARALI DISTRICT COUNCIL",
+      "category": "Non-consultancy services",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=78J7%2F2026%2F2027%2FNC%2F64",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Proposed Completion of Construction of DED's House at Rorya District Council",
+      "reference": "77H5/2026/2027/W/01",
+      "procuringEntity": "RORYA DISTRICT COUNCIL",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=77H5%2F2026%2F2027%2FW%2F01",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Building Material for Completion of Administration Block at Lingaula",
+      "reference": "76G4/2026/2027/G/145",
+      "procuringEntity": "KILWA DISTRICT COUNCIL",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=76G4%2F2026%2F2027%2FG%2F145",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Constructions of 7 classrooms in HAI District at Lerai,Nkuu,kyuu,Nkwamasi,Uduru and Ng'uni Secondary Schools",
+      "reference": "75F4/2026/2027/W/29",
+      "procuringEntity": "HAI DISTRICT COUNCIL",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=75F4%2F2026%2F2027%2FW%2F29",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "CONSTRUCTION OF STAFF HOUSE ( 2 IN 1) AT TINDIGANI DISPENSARY",
+      "reference": "75F4/2026/2027/W/19",
+      "procuringEntity": "HAI DISTRICT COUNCIL",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T14:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=75F4%2F2026%2F2027%2FW%2F19",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -442,7 +817,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F035%2F2026%2F2027%2FG%2F34",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -457,7 +832,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315284",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -472,7 +847,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315179",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -487,7 +862,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315076",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -502,7 +877,37 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315221",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Kenya PPIP",
+      "title": "INSTALLATION OF MODERN SOLAR LIGHTING AND FLOODLIGHT",
+      "reference": "2704958",
+      "procuringEntity": "Embu County Government",
+      "category": "Works",
+      "location": "Kenya",
+      "region": "Kenya",
+      "closingDate": "2026-12-04T11:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://tenders.go.ke/tenders/315289",
+      "status": "active",
+      "country": "Kenya",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Kenya PPIP",
+      "title": "SUPPLY AND DELIVERY OF MAINTENANCE OF EXISTING FLOODLIGHTS AND STREETLIGHTS ACCESSORIES",
+      "reference": "2704956 -2026/2027",
+      "procuringEntity": "Embu County Government",
+      "category": "Supplies",
+      "location": "Kenya",
+      "region": "Kenya",
+      "closingDate": "2026-12-04T11:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://tenders.go.ke/tenders/315288",
+      "status": "active",
+      "country": "Kenya",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -517,7 +922,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315259",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -532,7 +937,67 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315218",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Kenya PPIP",
+      "title": "PROPOSED SUPPLY AND DELIVERY OF PLANTING AND TOP DRESSING FERTILISER",
+      "reference": "KAK/CNTY/NGAAF/04/2026-2027",
+      "procuringEntity": "County Commissioner - Kakamega",
+      "category": "Supplies",
+      "location": "Kenya",
+      "region": "Kenya",
+      "closingDate": "2026-12-04T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://tenders.go.ke/tenders/315295",
+      "status": "active",
+      "country": "Kenya",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply and Installation of Office Staff and Classroom Furniture, Fixtures and Fittings for new academic building for ICoT - Morogoro & Mbeya Campus",
+      "reference": "98/01/2026/2027/G/58",
+      "procuringEntity": "INSTITUTE OF CONSTRUCTION TECHNOLOGY",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=98%2F01%2F2026%2F2027%2FG%2F58",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": ": Provision of Local Artisan for the Construction of Perimeter Fence at the City Director's House",
+      "reference": "7815/2026/2027/NC/27",
+      "procuringEntity": "MBEYA CITY COUNCIL",
+      "category": "Non-consultancy services",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=7815%2F2026%2F2027%2FNC%2F27",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Procurement of Building Materials",
+      "reference": "52/080/2026/2027/G/16",
+      "procuringEntity": "MBEYA ZONAL REFERRAL HOSPITAL",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-04T10:00:00+03:00",
+      "publishedDate": "2026-11-27",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F080%2F2026%2F2027%2FG%2F16",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -547,7 +1012,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315125",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -562,7 +1027,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315116",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -577,7 +1042,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315193",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -592,7 +1057,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315188",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -607,7 +1072,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315192",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -622,7 +1087,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315139",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -637,7 +1102,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315124",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -652,7 +1117,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315140",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -667,7 +1132,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315130",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -682,7 +1147,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315144",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -697,7 +1162,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315126",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -712,7 +1177,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315142",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -727,7 +1192,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315190",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -742,7 +1207,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315141",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -757,7 +1222,22 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315145",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Kenya PPIP",
+      "title": "Tender for the supply, delivery and installation of Advanced Cardiac Life Support (ACLS) Ambulances for Kenya Devolution Support Programme II (KDSP II).",
+      "reference": "CGN/PSTD/ONT/KDSPII/002/2026 2027",
+      "procuringEntity": "Nakuru County Government",
+      "category": "Supplies",
+      "location": "Kenya",
+      "region": "Kenya",
+      "closingDate": "2026-12-10T10:00:00+03:00",
+      "publishedDate": "2026-11-26",
+      "bidDocumentsUrl": "https://tenders.go.ke/tenders/315123",
+      "status": "active",
+      "country": "Kenya",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -772,7 +1252,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315274",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -787,7 +1267,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315089",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -802,7 +1282,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315092",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -817,7 +1297,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314902",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -832,7 +1312,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315134",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -847,7 +1327,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315133",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -862,7 +1342,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315128",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -877,7 +1357,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315138",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -892,7 +1372,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315135",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -907,7 +1387,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315137",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -922,7 +1402,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314948",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -937,7 +1417,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314944",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -952,7 +1432,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314942",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -967,7 +1447,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR159%2F2026%2F2027%2FW%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -982,7 +1462,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X10%2F2026%2F2027%2FG%2F162",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -997,7 +1477,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR177%2F2026%2F2027%2FNC%2F17",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1012,7 +1492,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S5%2F2026%2F2027%2FG%2F21",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1027,7 +1507,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=83%2F2026%2F2027%2FW%2F10",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1042,7 +1522,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=Y1%2F2026%2F2027%2FNC%2F10",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1057,7 +1537,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR103%2F2026%2F2027%2FNC%2F25",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1072,7 +1552,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR103%2F2026%2F2027%2FG%2F72",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1087,7 +1567,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315175",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1102,7 +1582,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315086",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1117,7 +1597,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315087",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1132,7 +1612,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X11%2F2026%2F2027%2FG%2F59",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1147,7 +1627,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F002%2F2026%2F2027%2FW%2F62",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1162,7 +1642,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F020%2F2026%2F2027%2FW%2F56",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1177,7 +1657,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F020%2F2026%2F2027%2FW%2F55",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1192,7 +1672,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F520%2F8906%2FG%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1207,7 +1687,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=85%2F2026%2F2027%2FW%2F08",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1222,7 +1702,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=04%2F2026%2F2027%2FG%2F30",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1237,7 +1717,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F254538%2FA+104%2FNC%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1252,7 +1732,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F003%2F2026%2F2027%2FNC%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1267,7 +1747,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315106",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1282,7 +1762,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=DM32%2F2026%2F2027%2FG%2F20",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1297,7 +1777,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=47BB1%2F2026%2F2027%2FW%2F10",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1312,7 +1792,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314938",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1327,7 +1807,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=74E2%2F2026%2F2027%2FG%2F68",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1342,7 +1822,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314909",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1357,7 +1837,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314915",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1372,7 +1852,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314918",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1387,7 +1867,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314921",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -1401,7 +1881,7 @@
       "publishedDate": "2026-11-25",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483741",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -1415,7 +1895,7 @@
       "publishedDate": "2026-11-25",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483756",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -1429,7 +1909,7 @@
       "publishedDate": "2026-11-25",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483699",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1444,7 +1924,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314986",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1459,7 +1939,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315028",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1474,7 +1954,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314814",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1489,7 +1969,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314812",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1504,7 +1984,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F2026%2F2027%2FG%2F36",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1519,7 +1999,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315011",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1534,7 +2014,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR007%2F2026%2F2027%2FNC%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1549,7 +2029,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314852",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1564,7 +2044,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314932",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1579,7 +2059,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=44%2F002%2F2026%2F2027%2FC%2F31",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1594,7 +2074,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR176%2F2026%2F2027%2FC%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1609,7 +2089,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314834",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1624,7 +2104,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F003%2F2026%2F2027%2FNC%2F08",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1639,7 +2119,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=00005%2F2026%2F2027%2FNC%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1654,7 +2134,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR103%2F2026%2F2027%2FG%2F73",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1669,7 +2149,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314750",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -1683,7 +2163,7 @@
       "publishedDate": "2026-11-25",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483601",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1698,7 +2178,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315073",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1713,7 +2193,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314886",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1728,7 +2208,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314872",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1743,7 +2223,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314870",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1758,7 +2238,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314869",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1773,7 +2253,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314868",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1788,7 +2268,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314867",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1803,7 +2283,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR33%2F2026%2F2027%2FG%2F98",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1818,7 +2298,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=58%2F2026%2F2027%2FG%2F04",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1833,7 +2313,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314934",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1848,7 +2328,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=47BB1%2F2026%2F2027%2FW%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -1863,7 +2343,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=88Z2%2F2026%2F2027%2FG%2F427",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1878,7 +2358,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314746",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1893,7 +2373,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314495",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1908,7 +2388,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314494",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1923,7 +2403,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314559",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1938,7 +2418,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314598",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1953,7 +2433,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314571",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1968,7 +2448,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314676",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1983,7 +2463,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314587",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -1998,7 +2478,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314570",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2013,7 +2493,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314596",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2028,7 +2508,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/315027",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2043,7 +2523,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314499",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2058,7 +2538,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314552",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -2072,7 +2552,7 @@
       "publishedDate": "2026-11-24",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=52056",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2087,7 +2567,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314594",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2102,7 +2582,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314540",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2117,7 +2597,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314887",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2132,7 +2612,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314675",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2147,7 +2627,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314524",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2162,7 +2642,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314526",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2177,7 +2657,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314528",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2192,7 +2672,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314519",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2207,7 +2687,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=064%2FTZ-DSFA+%2FP179969%2F2026%2F2027%2F-GO-RFB-518937",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2222,7 +2702,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314711",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2237,7 +2717,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314717",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2252,7 +2732,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314718",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2267,7 +2747,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314716",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2282,7 +2762,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314719",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2297,7 +2777,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314715",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2312,7 +2792,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314713",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2327,7 +2807,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314712",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2342,7 +2822,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314710",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2357,7 +2837,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314707",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2372,7 +2852,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314709",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2387,7 +2867,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314708",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2402,7 +2882,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=064%2F2026%2F2027%2FC%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2417,7 +2897,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314633",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2432,7 +2912,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=99%2F2026%2F2027%2FG%2F82",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2447,7 +2927,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=70Q2%2F2026%2F2027%2FC%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2462,7 +2942,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314554",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2477,7 +2957,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR237%2F2026%2F2027%2FG%2F38",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2492,7 +2972,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR237%2F2026%2F2027%2FG%2F28",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2507,7 +2987,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR237%2F2026%2F2027%2FG%2F17",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2522,7 +3002,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR237%2F2026%2F2027%2FG%2F14",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2537,7 +3017,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR237%2F2026%2F2027%2FNC%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2552,7 +3032,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR237%2F2026%2F2027%2FG%2F15",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2567,7 +3047,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314626",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2582,7 +3062,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314520",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2597,7 +3077,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314531",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2612,7 +3092,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314537",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2627,7 +3107,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F012%2F2026%2F2027%2FW%2F48",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2642,7 +3122,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR133%2F2026%2F2027%2FG%2F05",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2657,7 +3137,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR12%2F2026%2F2027%2FG%2F19",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2672,7 +3152,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=79K6%2F2026%2F2027%2FW%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2687,7 +3167,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=75F4%2F2026%2F2027%2FG%2F121",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2702,7 +3182,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=79K8%2F2026%2F2027%2FG%2F16",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2717,7 +3197,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=7205%2F2026%2F2027%2FW%2F14",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2732,7 +3212,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=X11%2F006%2F2026%2F2027%2FG%2F68",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2747,7 +3227,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR95%2F2026%2F2027%2FNC%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2762,7 +3242,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314348",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2777,7 +3257,22 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314347",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "PROVISION OF WASTE COLLECTION AND LEVY(FEE)COLLECTION SERVICE AT MZUNGU STREET IN KILUNGULE WARD",
+      "reference": "88Z2/2026/2027/NC/26",
+      "procuringEntity": "TEMEKE MUNICIPAL COUNCIL",
+      "category": "Non-consultancy services",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-01T10:00:00+03:00",
+      "publishedDate": "2026-11-24",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=88Z2%2F2026%2F2027%2FNC%2F26",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2792,7 +3287,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=87V6%2F2026%2F2027%2FW%2F09",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -2806,7 +3301,7 @@
       "publishedDate": "2026-11-23",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483115",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2821,7 +3316,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314292",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2836,7 +3331,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314500",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2851,7 +3346,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314497",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2866,7 +3361,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314321",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2881,7 +3376,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314280",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -2896,7 +3391,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR99%2FTASFAM%2FP179969%2F2025%2F2026%2FW%2F08%3B+TZ-MLF-512189-CW-RFB",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2911,7 +3406,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314435",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2926,7 +3421,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314324",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2941,7 +3436,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314516",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2956,7 +3451,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314521",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2971,7 +3466,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314525",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -2986,7 +3481,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314510",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3001,7 +3496,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314376",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3016,7 +3511,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR219%2F2026%2F2027%2FW%2F10",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3031,7 +3526,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=Y8%2F2026%2F2027%2FNC%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3046,7 +3541,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=63%2F2026%2F2027%2FC%2F04",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3061,7 +3556,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314417",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3076,7 +3571,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=72C8%2F2026%2F2027%2FC%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3091,7 +3586,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314523",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3106,7 +3601,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314046",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3121,7 +3616,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314052",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3136,7 +3631,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314893",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3151,7 +3646,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314725",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3166,7 +3661,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314387",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3181,7 +3676,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314509",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3196,7 +3691,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314400",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3211,7 +3706,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314399",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3226,7 +3721,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314404",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3241,7 +3736,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314403",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3256,7 +3751,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314384",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3271,7 +3766,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314396",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3286,7 +3781,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314460",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3301,7 +3796,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314453",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3316,7 +3811,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314488",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3331,7 +3826,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314415",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3346,7 +3841,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314419",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3361,7 +3856,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F002%2F2026%2F2027%2FW%2F55",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3376,7 +3871,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FG%2F83",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3391,7 +3886,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR39%2F2026%2F2027%2FG%2F48",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3406,7 +3901,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR228%2F013%2F2026%2F2027%2FNC%2F89",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3421,7 +3916,22 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR219%2F2026%2F2027%2FG%2F23",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply and Commissioning of various ICT Equipment",
+      "reference": "TR11/2026/2027/G/23",
+      "procuringEntity": "INSTITUTE OF JUDICIAL ADMINISTRATION",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-11-30T14:00:00+03:00",
+      "publishedDate": "2026-11-23",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR11%2F2026%2F2027%2FG%2F23",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3436,7 +3946,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S9%2F2026%2F2027%2FG%2F24",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3451,7 +3961,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F011%2F2026%2F2027%2FW%2F97",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3466,7 +3976,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=88Z4%2F2026%2F2027%2FG%2F388",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3481,7 +3991,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=8626%2F2026%2F2027%2FW%2F24",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3496,7 +4006,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=75F4%2F2026%2F2027%2FW%2F31",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3511,7 +4021,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=43%2F2026%2F2027%2FW%2F18",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3526,7 +4036,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=7815%2F2026%2F2027%2FG%2F199",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3541,7 +4051,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314681",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3556,7 +4066,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314354",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3571,7 +4081,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F011%2F2026%2F2027%2FW%2F92",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3586,7 +4096,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F011%2F2026%2F2027%2FW%2F91",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3601,7 +4111,22 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F011%2F2026%2F2027%2FW%2F80",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Upgrading Mbulu town gravel roads to tarmac standard (Constituency Development Fund)-Jimbo in Mbulu District.",
+      "reference": "S10/011/2026/2027/W/79",
+      "procuringEntity": "TARURA - MANYARA REGIONAL OFFICE",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-11-30T10:00:00+03:00",
+      "publishedDate": "2026-11-23",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F011%2F2026%2F2027%2FW%2F79",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3616,7 +4141,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=54S6%2F2026%2F2027%2FW%2F17",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3631,7 +4156,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314344",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3646,7 +4171,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314343",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3661,7 +4186,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FW%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3676,7 +4201,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313922",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3691,7 +4216,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313921",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3706,7 +4231,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313920",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3721,7 +4246,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314161",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3736,7 +4261,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314155",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3751,7 +4276,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313924",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3766,7 +4291,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314148",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3781,7 +4306,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313919",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3796,7 +4321,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313918",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3811,7 +4336,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313917",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3826,7 +4351,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313915",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3841,7 +4366,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313914",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3856,7 +4381,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314021",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3871,7 +4396,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314017",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3886,7 +4411,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314024",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3901,7 +4426,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314034",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3916,7 +4441,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314032",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3931,7 +4456,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314031",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3946,7 +4471,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314029",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3961,7 +4486,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314173",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -3976,7 +4501,22 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=78J6%2F2026%2F2027%2FW%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply of Various Valves for Maintenance of Water Transmission Network and Water Production Systems",
+      "reference": "TR165/2026/2027/G/03",
+      "procuringEntity": "KAHAMA SHINYANGA WATER SUPPLY AND SANITATION AUTHORITY",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-03T14:00:00+03:00",
+      "publishedDate": "2026-11-20",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR165%2F2026%2F2027%2FG%2F03",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -3991,7 +4531,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313960",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4006,7 +4546,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR136%2F2026%2F2027%2FG%2F50",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4021,7 +4561,37 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR222%2F2025%2F2026%2FG%2F105",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply and install ICT and video conferencing equipment in 70 primary healthcare facilities to support e-learning and continuous professional development through ECHO clinics - ICT",
+      "reference": "52/2026/2027/G/38",
+      "procuringEntity": "MINISTRY OF HEALTH",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-02T15:00:00+03:00",
+      "publishedDate": "2026-11-20",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F2026%2F2027%2FG%2F38",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Supply of ICT infrastructure, including internet access, computers, and accessories, to Dispensaries lacking adequate resources for wider GoTHOMIS coverage - ICT",
+      "reference": "52/2026/2027/G/29",
+      "procuringEntity": "MINISTRY OF HEALTH",
+      "category": "Supplies",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-12-02T15:00:00+03:00",
+      "publishedDate": "2026-11-20",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=52%2F2026%2F2027%2FG%2F29",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4036,7 +4606,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313928",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4051,7 +4621,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313927",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4066,7 +4636,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S9%2F2026%2F2027%2FG%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4081,7 +4651,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F197",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4096,7 +4666,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=S10%2F009%2F2026%2F2027%2FW%2F194",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4111,7 +4681,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314178",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4126,7 +4696,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314225",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4141,7 +4711,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314224",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4156,7 +4726,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314201",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4171,7 +4741,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314215",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4186,7 +4756,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314206",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4201,7 +4771,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314209",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4216,7 +4786,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314216",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4231,7 +4801,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314205",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4246,7 +4816,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314213",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4261,7 +4831,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314048",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -4275,7 +4845,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51923",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4290,7 +4860,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F2026%2F2027%2FW%2F20",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4305,7 +4875,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313901",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4320,7 +4890,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313902",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4335,7 +4905,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313823",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4350,7 +4920,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314991",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4365,7 +4935,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314260",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4380,7 +4950,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314256",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4395,7 +4965,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314255",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4410,7 +4980,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314253",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4425,7 +4995,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313953",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4440,7 +5010,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313965",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4455,7 +5025,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313946",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4470,7 +5040,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313702",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4485,7 +5055,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313701",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4500,7 +5070,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313786",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -4514,7 +5084,7 @@
       "publishedDate": "2026-11-19",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51912",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4529,7 +5099,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F003%2F2026%2F2027%2FW%2F37",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4544,7 +5114,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR177%2F2026%2F2027%2FG%2F74",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4559,7 +5129,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F113%2FTR176%2FG%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4574,7 +5144,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F113%2FTR176%2FG%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4589,7 +5159,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR120%2F2026%2F2027%2FG%2F12",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4604,7 +5174,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR225%2F2026%2F2027%2FG%2F07",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4619,7 +5189,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313621",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4634,7 +5204,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=FA%2F2026%2F2027%2F61168%2FTR140%2F024%2FNC%2F01",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4649,7 +5219,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313658",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4664,7 +5234,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313539",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4679,7 +5249,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313417",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4694,7 +5264,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR10%2F2026%2F2027%2FC%2F06",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4709,7 +5279,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313690",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4724,7 +5294,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313663",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4739,7 +5309,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313648",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -4754,7 +5324,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=90%2F2026%2F2027%2FW%2F03",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4769,7 +5339,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313639",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4784,7 +5354,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313416",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4799,7 +5369,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313246",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4814,7 +5384,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313224",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4829,7 +5399,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313325",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4844,7 +5414,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313322",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4859,7 +5429,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313321",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4874,7 +5444,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313317",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4889,7 +5459,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314331",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4904,7 +5474,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313561",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4919,7 +5489,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313564",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4934,7 +5504,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313544",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -4949,7 +5519,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313923",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -5099,7 +5669,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313596",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5114,7 +5684,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313520",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5129,7 +5699,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313700",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -5474,7 +6044,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313400",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5489,7 +6059,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313203",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5504,7 +6074,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313566",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5519,7 +6089,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313364",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5534,7 +6104,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313866",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5549,7 +6119,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313196",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -5563,7 +6133,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51818",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5578,7 +6148,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312571",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5593,7 +6163,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313806",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5608,7 +6178,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313158",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5623,7 +6193,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313814",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5638,7 +6208,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313383",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5653,7 +6223,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313310",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -5667,7 +6237,7 @@
       "publishedDate": "2026-11-17",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51825",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -5697,7 +6267,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313746",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5712,7 +6282,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313729",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -5741,7 +6311,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463259/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Welthungerhilfe Uganda",
@@ -5755,7 +6325,7 @@
       "publishedDate": "2026-11-16",
       "bidDocumentsUrl": "https://eu.eu-supply.com/ctm/Supplier/PublicPurchase/463254/0/0?b=WELTHUNGERHILFE",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -5770,7 +6340,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FC%2F10",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5785,7 +6355,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312954",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5800,7 +6370,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312868",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5815,7 +6385,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312968",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5830,7 +6400,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312892",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5845,7 +6415,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312866",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5860,7 +6430,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312970",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5875,7 +6445,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312973",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5890,7 +6460,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312867",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5905,7 +6475,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312957",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5920,7 +6490,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312860",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5935,7 +6505,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312853",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5950,7 +6520,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312859",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5965,7 +6535,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312955",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5980,7 +6550,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312956",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -5995,7 +6565,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312894",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6010,7 +6580,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312850",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6025,7 +6595,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312851",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6040,7 +6610,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312861",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6055,7 +6625,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312852",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -6070,7 +6640,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FG%2F56",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6085,7 +6655,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313464",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6100,7 +6670,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313808",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -6115,7 +6685,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FC%2F11",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6130,7 +6700,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312952",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -6145,7 +6715,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR173%2F2025%2F2026%2FC%2F23",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -6265,7 +6835,22 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=81M2%2F2026%2F2027%2FW%2F05",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
+    },
+    {
+      "source": "Tanzania NeST",
+      "title": "Construction and facilitation of New Administration Block, Fish Processing Building and Small Business Building at Bagamoyo Fish Market in Bagamoyo District",
+      "reference": "TR99/TASFAM/P179969/2026/2027/W/01",
+      "procuringEntity": "MINISTRY OF LIVESTOCK AND FISHERIES - TASFAM",
+      "category": "Works",
+      "location": "Tanzania",
+      "region": "Tanzania",
+      "closingDate": "2026-11-30T14:00:00+03:00",
+      "publishedDate": "2026-11-13",
+      "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR99%2FTASFAM%2FP179969%2F2026%2F2027%2FW%2F01",
+      "status": "active",
+      "country": "Tanzania",
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -6280,7 +6865,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR201%2FCCP%2FP155759%2F2026%2F2027%2FG%2F04",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -6295,7 +6880,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312406",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -6985,7 +7570,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312950",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7000,7 +7585,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312586",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7015,7 +7600,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314714",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7030,7 +7615,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312672",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7045,7 +7630,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312949",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7060,7 +7645,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312376",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7075,7 +7660,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312375",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7090,7 +7675,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312374",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7105,7 +7690,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312373",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -7119,7 +7704,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51666",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -7133,7 +7718,7 @@
       "publishedDate": "2026-11-11",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51665",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7148,7 +7733,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FW%2F08",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7163,7 +7748,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312157",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7178,7 +7763,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312158",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7193,7 +7778,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312365",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7208,7 +7793,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312007",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7223,7 +7808,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F2026%2F2027%2FW%2F19",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7238,7 +7823,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314327",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7253,7 +7838,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313447",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7268,7 +7853,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313435",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7283,7 +7868,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313440",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7298,7 +7883,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313442",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7313,7 +7898,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313443",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7328,7 +7913,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313445",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7343,7 +7928,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313449",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7358,7 +7943,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313438",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7373,7 +7958,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/313451",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7388,7 +7973,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312074",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7403,7 +7988,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312077",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7418,7 +8003,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312071",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7433,7 +8018,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312066",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7448,7 +8033,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/312084",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7463,7 +8048,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR134%2F2026%2F2027%2FG%2F57",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -7477,7 +8062,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480356",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -7491,7 +8076,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479939",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -7505,7 +8090,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479940",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -7519,7 +8104,7 @@
       "publishedDate": "2026-11-09",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479942",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -7549,7 +8134,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314612",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7564,7 +8149,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR152%2F2026%2F2027%2FW%2F07",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -7594,7 +8179,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311406",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7609,7 +8194,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR36%2F020%2F2026%2F2027%2FC%2F02",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7624,7 +8209,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311490",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7639,7 +8224,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311540",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "GOAL Uganda",
@@ -7653,22 +8238,7 @@
       "publishedDate": "2026-11-05",
       "bidDocumentsUrl": "https://www.goalglobal.org/tenders/#fl-accordion-byqs8f7wzd25-content-0",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
-    },
-    {
-      "source": "Kenya PPIP",
-      "title": "DESIGN, SUPPLY, DELIVERY, INSTALLATION, TESTING AND COMMISSIONING OF GRID-TIED SOLAR POWER SYSTEM AND CHILLING ACCESSORIES AT MERU CENTRAL DAIRY CO OPERATIVE UNION LTD IN NTIMA EAST WARD, IMENTI NORTH SUBCOUNTY AND SIX COLLECTION CENTERS",
-      "reference": "KE-Meru County-558084-CW-RFB",
-      "procuringEntity": "Meru County Government",
-      "category": "Works",
-      "location": "Kenya",
-      "region": "Kenya",
-      "closingDate": "2026-12-17T23:00:00+03:00",
-      "publishedDate": "2026-11-03",
-      "bidDocumentsUrl": "https://tenders.go.ke/tenders/311131",
-      "status": "active",
-      "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7683,7 +8253,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311151",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNABSEC tender bulletin",
@@ -7713,7 +8283,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314329",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7728,7 +8298,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311156",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7743,7 +8313,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR212%2F2026%2F2027%2FG%2F310",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7758,7 +8328,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/311089",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -7772,7 +8342,7 @@
       "publishedDate": "2026-10-29",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=51264",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7787,7 +8357,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/314325",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7802,7 +8372,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/309967",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Tanzania NeST",
@@ -7817,7 +8387,7 @@
       "bidDocumentsUrl": "https://nest.go.tz/tenders/published-tenders?reference=TR173%2F2026%2F2027%2FW%2F14",
       "status": "active",
       "country": "Tanzania",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -7831,7 +8401,7 @@
       "publishedDate": "2026-10-19",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475833",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7846,7 +8416,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/308590",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "UNDP Procurement Notices",
@@ -7860,7 +8430,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://procurement-notices.undp.org/view_negotiation.cfm?nego_id=50604",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -7874,7 +8444,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00471365",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "World Bank",
@@ -7888,7 +8458,7 @@
       "publishedDate": "2026-10-12",
       "bidDocumentsUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00474290",
       "status": "active",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7903,7 +8473,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/296102",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7918,7 +8488,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/278966",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7933,7 +8503,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/303673",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7948,7 +8518,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/297603",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     },
     {
       "source": "Kenya PPIP",
@@ -7963,7 +8533,7 @@
       "bidDocumentsUrl": "https://tenders.go.ke/tenders/280701",
       "status": "active",
       "country": "Kenya",
-      "checkedAt": "2026-11-27T16:34:29+00:00"
+      "checkedAt": "2026-11-28T01:26:19+00:00"
     }
   ]
 }
